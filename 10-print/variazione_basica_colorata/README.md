@@ -1,5 +1,5 @@
-# 10 PRINT EXERCISE
-> 24/03: variazione base con colori, bold, cambio sfondo, ingrandimento simboli
+# VARIAZIONE 10 PRINT
+> 23/03: variazione base con colori, bold, cambio sfondo, ingrandimento simboli
 
 https://editor.p5js.org/cllomatt24/sketches/d-RVNL0pN
 
