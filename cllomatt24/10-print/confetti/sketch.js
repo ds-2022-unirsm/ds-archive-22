@@ -51,7 +51,7 @@ function draw() {
 
 function keyPressed() {
     if (keyCode === LEFT_ARROW) {
-    angolo = 10;
+    angolo = 5;
     spazio = 0;
   } else if (keyCode === RIGHT_ARROW) {
     angolo = 35;
