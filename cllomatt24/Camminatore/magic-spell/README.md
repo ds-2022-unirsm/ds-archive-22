@@ -1,4 +1,4 @@
-# VARIAZIONI CAMMINATORE
+# MAGIC SPELL
 ### **• 03/04 magic spell** 👉 [link](https://editor.p5js.org/cllomatt24/sketches/-CiUkbsWX).
 > Ogni camminatore ha la sua indipendenza. Sono presenti ellissi e curve di bezier entrambe trattate, sia per il movimento che per la variazione cromatica, con il noise.
 
