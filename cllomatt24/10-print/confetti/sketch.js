@@ -6,7 +6,7 @@
 
 let x = 0;
 let y = 0;
-let spazio = 5;
+let spazio = 0.1;
 let d = 10;
 t = 0;
 let angolo = 5;
@@ -54,7 +54,7 @@ function keyPressed() {
     angolo = 10;
     spazio = 0;
   } else if (keyCode === RIGHT_ARROW) {
-    angolo = 5;
-    spazio = 5;
+    angolo = 35;
+    spazio = 0.1;
   }
 }
