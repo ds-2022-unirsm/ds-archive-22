@@ -1,1 +1,1 @@
-BEZIER: Random walker noise with noise
+BEZIER: Random walker with noise
