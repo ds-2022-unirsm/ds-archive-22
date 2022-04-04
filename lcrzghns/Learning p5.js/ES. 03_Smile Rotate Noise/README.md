@@ -1,6 +1,6 @@
 ES. 03: Smile Rotate Noise
 
 
-https://user-images.githubusercontent.com/101177495/161525383-8d2f6d95-addb-4253-861a-ba4761409dcc.mov
 
 
+<img width="597" alt="Schermata 2022-04-04 alle 12 24 36" src="https://user-images.githubusercontent.com/101177495/161527101-8c14591d-3b7a-49a3-b994-b21f8bab07c5.png">
