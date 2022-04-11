@@ -3,4 +3,5 @@ VARIAZIONE 1 di 10 PRINT
 
 link a variazione 1: https://editor.p5js.org/SofiaMontanari/full/zUSZ1IUhR
 
-<img width="1001" alt="Schermata 2022-04-08 alle 09 10 28" src="https://user-images.githubusercontent.com/101251566/162727930-ea6c2094-dddd-405d-bfc3-c4db76565cbb.png">
+
+<img width="974" alt="Schermata 2022-04-08 alle 09 09 46" src="https://user-images.githubusercontent.com/101251566/162728103-c3e7f04a-5946-480f-98ec-4460fe6d86a5.png">
