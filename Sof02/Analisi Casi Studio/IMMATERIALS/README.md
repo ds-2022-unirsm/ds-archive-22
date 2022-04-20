@@ -1,5 +1,4 @@
-Alt-H1
-======
+
  **Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen!** 
 ====== 
 
