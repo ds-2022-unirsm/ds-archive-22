@@ -8,6 +8,7 @@ function setup() {
   for (let i = 0; i < numeroCerchi; i++) {
     cerchi.push(new disegna_cerchio(i));
   }
+
 }
 
 function draw() {
@@ -54,4 +55,5 @@ function disegna_cerchio(_id) {
       pop();
     }
   };
+
 }
