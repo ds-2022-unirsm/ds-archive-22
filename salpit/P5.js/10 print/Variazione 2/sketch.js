@@ -1,42 +1,59 @@
-
-
-var x = 100; // store current x position on the grid
-var y = 20; // store current y position on the grid
-
-
+let cerchi = [];
+let numeroCerchi = 3;
 
 function setup() {
-  //pixelDensity(displayDensity());
   createCanvas(windowWidth, windowHeight);
-  //
-  background(200);
-  //
-  //url = getURL();
-  strokeJoin(ROUND);
+  background(255);
+  
+  for (let i = 0; i < numeroCerchi; i++) {
+    cerchi.push(new disegna_cerchio(i));
+  }
+
 }
 
 function draw() {
   
-  // controllo colore (random (red), random (green), random (blue), random (opacità interna figura))
-  fill(random(231), random(35), random(133), random(120)); 
-  
-  if (random(1) > 0.4) {
-    triangle(x + 30, y + 10, x += 20, y += 100, 10, 10);
-    rotate(PI/15);
+  for (let i = 0; i < cerchi.length; i++) {
+    cerchi[i].display();
   }
+  //noLoop();
+}
 
-  
-  // passo alla casella a lato
-  x += 100;
-  // se sono in fondo alla riga vado a capo alla riga successiva
-  if (x > width) {
-    x = 10;
-    y += 20 + random(height);
+function disegna_cerchio(_id) {
+  this.id = _id;
+  this.x = 250;
+  this.y = 0;
+  this.spazio = 100;
+  this.numero = 100;
+  this.tx1 = 200 * noise(random(5));
+  this.tx2 = 400 * noise(random(6));
 
-  }
-  // se sono in fondo alla pagina ricomincio con colore e griglia differente
-  if (y > height) {
-    y = 10;
-    x = 5 + random(width);
-  }
+  this.display = function () {
+    for (var i = 0; i < this.numero; i++) {
+      push();
+      rectMode(CENTER);
+      ellipseMode(CENTER);
+      translate(width / 2, height / 2);
+      rotate((TWO_PI * i) / this.spazio);
+      if (random(1) < 0.5) {
+        push();
+		translate(this.tx1, 0);
+        rotate(millis() / 1000);
+        fill(0,0, 0);
+        noStroke();
+        rect(this.x, this.y, 4);
+        pop();
+      } else {
+        push();
+        translate(this.tx2, 0);
+        rotate(millis() / 1000);
+        fill(0, 0, 0)
+        noStroke();
+        ellipse(this.x, this.y, 2);
+        pop();
+      }
+      pop();
+    }
+  };
+
 }
