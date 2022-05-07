@@ -10,3 +10,12 @@
 
 ![waves](https://user-images.githubusercontent.com/98045892/167251760-7f9e572a-42e0-4f04-80f6-0fd3127ae3cb.png)
 
+* [Sketch 10 PRINT Generatore Linee Flash ](https://editor.p5js.org/AleRicciardo/sketches/3lIi1vuOw)
+
+* ![waves](https://user-images.githubusercontent.com/98045892/167253475-41d2a9e8-b333-4497-a387-bbef6975184c.gif)
+
+![generatore linee flash](https://user-images.githubusercontent.com/98045892/167252997-dd6ee546-a92c-4fd4-8c5b-eb8f2e33b585.png)
+
+![flash line](https://user-images.githubusercontent.com/98045892/167253332-8f138934-46d6-4cc0-96e8-ba6ae3542e1e.gif)
+
+
