@@ -14,7 +14,7 @@ I dati, provenienti dall'Agenzia delle Nazioni Unite per i rifugiati (UNHCR), ve
 Il progetto vuole trasmettere la grandezza di una delle più importanti crisi di rifugiati che l’Europa abbia mai sperimentato dalla Seconda Guerra Mondiale e per farlo cerca di rappresentare i rifugiati con dei puntini in movimento. L'obiettivo è quello di mostrare dei dati in modo efficace, immediato e personalizzato. 
 
 ## What if?
-E se spingendo sul paese di partenza dei rifugiati apparissero delle testimonianze di chi è partito? Questo riuscirebbe ad umanizzare il valore di quei punti che si muovono all’interno dello spazio: non sarebbero più solo pallini, ma diventerebbero vere e proprie vite. Questo avvicinerebbe il fruitore dei dati a chi ha deciso di migrare in un altro paese. 
+E se cliccando sul paese di partenza dei rifugiati apparissero delle testimonianze di chi è partito? Questo riuscirebbe ad umanizzare il valore di quei punti che si muovono all’interno dello spazio: non sarebbero più solo pallini, ma diventerebbero vere e proprie vite. Questo avvicinerebbe il fruitore dei dati a chi ha deciso di migrare in un altro paese. 
 
 ## Fonti
 [lucify](https://www.lucify.com/the-flow-towards-europe/)
