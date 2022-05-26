@@ -23,18 +23,18 @@ E se cliccando sul paese di partenza dei rifugiati apparissero delle testimonian
 
 ## Progetti correlati
 
-* Eric Fischer, World travel and communications recorded on Twitter
+* Eric Fischer / World travel and communications recorded on Twitter
 
   ![This is an image](https://live.staticflickr.com/7027/6635655755_9928a22ac0_h.jpg)
   *Il verde è il movimento fisico da un luogo all'altro; il viola sono risposte da qualcuno a qualcuno un'altro; il bianco rappresenta entrambi.
   Gli endpoint dei viaggi sono dati reali, i percorsi intermedi sono costruiti. La luminosità è logaritmica.*
 
 
-* Tornado Tracks by [IDV Solutions](http://uxblog.idvsolutions.com/2012/07/interactive-tornado-tracks-map-is-live.html)
+* Tornado Tracks / [IDV Solutions](http://uxblog.idvsolutions.com/2012/07/interactive-tornado-tracks-map-is-live.html)
 
   ![This is an image](http://1.bp.blogspot.com/-5pmYpIAFurw/T85GPsbJDkI/AAAAAAAABEg/mFEGgJ8rtp4/s640/TornadoTracks.jpg)
 
 
-* Multi-touch installation [Max Planck Institutes](https://max-planck-research-networks.net/)
+* Multi-touch installation / [Max Planck Institutes](https://max-planck-research-networks.net/)
 
   ![This is an image](https://max-planck-research-networks.net/img/gallery/a02.jpg)
