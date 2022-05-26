@@ -19,10 +19,9 @@ E se invece di rilevare la rete WiFi si rilevasse il livello di rumorosità? Que
 ## Progetti correlati 
 * [Spectr|a|um](http://limiteazero.net/it/spectraum.html) / 2007 / Limite a zero
 
-![This is an image](http://limiteazero.net/i/spectraum/spectraum_06.jpg)
-
-*Sono state animate 4200 luci led disposte sulla facciate della Dexia Tower, nel centro di Bruxelles.*
+  ![This is an image](http://limiteazero.net/i/spectraum/spectraum_06.jpg)
+  *Sono state animate 4200 luci led disposte sulla facciate della Dexia Tower, nel centro di Bruxelles.*
 
 * Termografia edifici
 
-![This is an image](https://www.infobuild.it/wp-content/uploads/termografia.jpeg)
+  ![This is an image](https://www.infobuild.it/wp-content/uploads/termografia.jpeg)
