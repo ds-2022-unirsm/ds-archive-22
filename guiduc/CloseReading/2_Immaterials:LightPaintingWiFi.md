@@ -17,7 +17,7 @@ E se invece di rilevare la rete WiFi si rilevasse il livello di rumorosità? Que
 [yourban](http://yourban.no/2011/02/22/immaterials-light-painting-wifi/)
 
 ## Progetti correlati 
-* Spectr|a|um / 2007 / Limite a zero
+* [Spectr|a|um](http://limiteazero.net/it/spectraum.html) / 2007 / Limite a zero
 
 ![This is an image](http://limiteazero.net/i/spectraum/spectraum_06.jpg)
 
