@@ -1,4 +1,4 @@
-# The flow towards Europe / 2015 / Lucify
+# The flow towards Europe, Lucify, 2015
 ![This is an image](https://assets.weforum.org/wp-content/uploads/2015/11/1511B57-refugee-asylum-seeker-flow-europe.png)
 
 ## Che cos’è?
@@ -23,7 +23,7 @@ E se cliccando sul paese di partenza dei rifugiati apparissero delle testimonian
 
 ## Progetti correlati
 
-* Eric Fischer / World travel and communications recorded on Twitter
+* World travel and communications recorded on Twitter, Eric Fischer
 
   ![This is an image](https://live.staticflickr.com/7027/6635655755_9928a22ac0_h.jpg)
   *Il verde è il movimento fisico da un luogo all'altro; il viola sono risposte da qualcuno a qualcuno un'altro; il bianco rappresenta entrambi.
