@@ -1,4 +1,4 @@
-# Immaterials: Light painting WiFi / 2012 / Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
+# Immaterials: Light painting WiFi, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen, 2012
 ![This is an image](https://live.staticflickr.com/5091/5480060060_2a3d7b2be3_5k.jpg)
 
 ## Che cos’è?
@@ -17,7 +17,7 @@ E se invece di rilevare la rete WiFi si rilevasse il livello di rumorosità? Que
 [yourban](http://yourban.no/2011/02/22/immaterials-light-painting-wifi/)
 
 ## Progetti correlati 
-* [Spectr|a|um](http://limiteazero.net/it/spectraum.html) / 2007 / Limite a zero
+* [Spectr|a|um](http://limiteazero.net/it/spectraum.html), Limite a zero, 2007
 
   ![This is an image](http://limiteazero.net/i/spectraum/spectraum_06.jpg)
   
