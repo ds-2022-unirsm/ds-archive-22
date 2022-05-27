@@ -30,11 +30,11 @@ E se cliccando sul paese di partenza dei rifugiati apparissero delle testimonian
   Gli endpoint dei viaggi sono dati reali, i percorsi intermedi sono costruiti. La luminosità è logaritmica.*
 
 
-* Tornado Tracks / [IDV Solutions](http://uxblog.idvsolutions.com/2012/07/interactive-tornado-tracks-map-is-live.html)
+* Tornado Tracks, [IDV Solutions](http://uxblog.idvsolutions.com/2012/07/interactive-tornado-tracks-map-is-live.html)
 
   ![This is an image](http://1.bp.blogspot.com/-5pmYpIAFurw/T85GPsbJDkI/AAAAAAAABEg/mFEGgJ8rtp4/s640/TornadoTracks.jpg)
 
 
-* Multi-touch installation / [Max Planck Institutes](https://max-planck-research-networks.net/)
+* Multi-touch installation, [Max Planck Institutes](https://max-planck-research-networks.net/)
 
   ![This is an image](https://max-planck-research-networks.net/img/gallery/a02.jpg)
