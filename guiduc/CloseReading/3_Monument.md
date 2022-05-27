@@ -1,4 +1,4 @@
-# Monument / 2006 / Caleb Larsen
+# Monument, Caleb Larsen, 2006
 ![This is an image](https://laurademers.files.wordpress.com/2012/10/screen-shot-2012-10-18-at-12-24-34-am.png)
 
 ## Che cos’è?
@@ -17,11 +17,11 @@ E se, in base al paese in cui è avvenuto l'omicidio, cadesse una pallina di col
 [rhizome](https://rhizome.org/editorial/2008/oct/01/computational-poetics/)
 
 ## Progetti correlati
-* [Lifeline](https://domesticstreamers.com/projects/lifeline/) / 2014 / Domestic Data Streamers
+* [Lifeline](https://domesticstreamers.com/projects/lifeline/), Domestic Data Streamers, 2014
   ![This is an image](http://www.lasullivan.org/cms/wp-content/uploads/entrevista-domestik-data-streamers-4-1.jpg)
   
   *800 palloncini collocati in una ambiente di 90x30 metri. Questi rappresentano il punto tra la propria età e quella in cui si vorrebbe morire.*
   
-* [Hostile Terrain 94](https://www.undocumentedmigrationproject.org/hostileterrain94) / 2021 / Jason De León
+* [Hostile Terrain 94](https://www.undocumentedmigrationproject.org/hostileterrain94), Jason De León, 2021
    ![This is an image](https://nowall.bard.edu/files/2019/11/IMG_5191-scaled.jpg)
   *La mostra è composta da oltre 3.200 targhette scritte a mano che rappresentano i migranti morti nel tentativo di attraversare il deserto in Arizona tra la metà degli anni '90 e il 2019.*
