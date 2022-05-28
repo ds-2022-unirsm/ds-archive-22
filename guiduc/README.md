@@ -9,3 +9,6 @@ L'archivio personale è suddiviso in tre cartelle principali:
 > - Monument, Caleb Larsen, 2006;
 
 ## 2. Esercizi su p5.js:
+> - 10PRINT
+> - Camminatori nello spazio
+> - P5 Speech
