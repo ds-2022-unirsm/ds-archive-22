@@ -3,7 +3,7 @@
 ### Abstract (tra 400 e 600 caratteri, spazi compresi, note tra parentesi quadre)
 Il linguaggio consiste nella capacità di comunicare pensieri, sentimenti e d'informare sulla realtà esterna o su quella interiore: la parte più segreta di sé e la più difficile da esternare.
 Il progetto ha lo scopo di creare un linguaggio tipografico in cui possa emergere la natura dinamica dell'essere umano: da quella più superficiale e comprensibile a quella più profonda e intima.
-I caratteri vengono generati attraverso un algoritmo i cui parametri permettono di alterare la loro leggibilità tramite un'operazione di pixel mapping[1] e di disporre ciascuna lettera in griglie predefinite.
+I caratteri vengono generati attraverso un algoritmo i cui parametri permettono di alterare la loro leggibilità tramite un'operazione di pixel mapping e di disporre ciascuna lettera in griglie predefinite.
 
 ### Parole chiave (tra 2 e 5)
 `tipografia`, `pixel`, `incomprensibilità`, `linguaggio`, `intimità`
