@@ -29,14 +29,15 @@ Lorem ipsum[3] dolor sit amet, consectetur adipiscing elit. Maecenas elementum f
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas elementum finibus urna, eget hendrerit orci accumsan lobortis. Sed mattis sem non dolor porttitor commodo. Duis at bibendum nulla, vitae luctus justo. Nunc accumsan eget arcu et dictum. Mauris posuere justo eget purus vulputate, varius lacinia nisl hendrerit. Praesent velit magna, vehicula vel euismod nec, vehicula vel orci. Pellentesque interdum mollis porttitor. Pellentesque vel nisi sed dolor semper tempor. Praesent vel molestie sem. 
 
 ### Prototipazione e programmazione esplorativa
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas elementum finibus urna, eget hendrerit orci accumsan lobortis. Sed mattis sem non dolor porttitor commodo. Duis at bibendum nulla, vitae luctus justo. Nunc accumsan eget arcu et dictum. Mauris posuere justo eget purus vulputate, varius lacinia nisl hendrerit. Praesent velit magna, vehicula vel euismod nec, vehicula vel orci. Pellentesque interdum mollis porttitor. Pellentesque vel nisi sed dolor semper tempor. Praesent vel molestie sem. 
+La realizzazione di prototipi e algoritmi diversi ha permesso di individuare i nodi centrali del progetto quali: l'individuazione di parametri utili per la generazione di linguaggi tipografici diversi; la scrittura di tali caratteri in serie e la realizzazione di griglie modulabili in dimensione entro cui stampare le lettere e quindi intere frasi.
 
-### Lorem ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas elementum finibus urna, eget hendrerit orci accumsan lobortis. Sed mattis sem non dolor porttitor commodo. Duis at bibendum nulla, vitae luctus justo. Nunc accumsan eget arcu et dictum. Mauris posuere justo eget purus vulputate, varius lacinia nisl hendrerit. Praesent velit magna, vehicula vel euismod nec, vehicula vel orci. Pellentesque interdum mollis porttitor. Pellentesque vel nisi sed dolor semper tempor. Praesent vel molestie sem. 
+### 1° prototipo (👉[link](https://editor.p5js.org/cllomatt24/full/kb7v_GBZR))
+Il primo prototipo utilizza un algoritmo di Generative Design basato su un'operazione di pixel mapping: ciascun pixel viene convertito in un nuovo elemento (un file di tipo .svg) in base al proprio valore in scala di grigi.
+![Senza titolo-1](https://user-images.githubusercontent.com/101120757/174057447-ad18d1dc-1b5b-47db-86e2-d2f979b4dc19.png)
 
 -------
 
-## Il software Magia Verde: p5-sessions-2022-senigallia
+## Il software Intimità Blu: p5-sessions-2022-senigallia
 
 ### Intro
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas elementum finibus urna, eget hendrerit orci accumsan lobortis. Sed mattis sem non dolor porttitor commodo. Duis at bibendum nulla, vitae luctus justo. Nunc accumsan eget arcu et dictum. Mauris posuere justo eget purus vulputate, varius lacinia nisl hendrerit. Praesent velit magna, vehicula vel euismod nec, vehicula vel orci. Pellentesque interdum mollis porttitor. Pellentesque vel nisi sed dolor semper tempor. Praesent vel molestie sem. 
