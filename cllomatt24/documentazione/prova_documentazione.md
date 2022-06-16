@@ -1,19 +1,21 @@
-## Titolo intervento
+## 3. Intimità Blu
 
 ### Abstract (tra 400 e 600 caratteri, spazi compresi, note tra parentesi quadre)
-Lorem ipsum[1] dolor sit amet, consectetur adipiscing elit. Maecenas elementum finibus urna, eget hendrerit orci accumsan lobortis. Sed mattis sem non dolor porttitor commodo. Duis at bibendum nulla, vitae luctus justo. Nunc accumsan eget arcu et dictum. Mauris posuere justo eget purus vulputate, varius lacinia nisl hendrerit. Praesent velit magna[2], vehicula vel euismod nec, vehicula vel orci. Pellentesque interdum mollis porttitor. Pellentesque vel nisi sed dolor semper tempor. Praesent vel molestie sem. 
+Il linguaggio consiste nella capacità di comunicare pensieri, sentimenti e d'informare sulla realtà esterna o su quella interiore: la parte più segreta di sé e la più difficile da esternare.
+Il progetto ha lo scopo di creare un linguaggio tipografico in cui possa emergere la natura dinamica dell'essere umano: da quella più superficiale e comprensibile a quella più profonda e intima.
+I caratteri vengono generati attraverso un algoritmo i cui parametri permettono di alterare la loro leggibilità tramite un'operazione di pixel mapping[1] e di disporre ciascuna lettera in griglie predefinite.
 
 ### Parole chiave (tra 2 e 5)
-`Lorem`, `Ipsum`, `Lorem ipsum`, `Lorem`
+`tipografia`, `pixel`, `incomprensibilità`, `linguaggio`, `intimità`
 
 ### Crediti
-Nome Cognome (@[nickname GitHub](#url)), Nome Cognome (@[nickname GitHub](#url)), Nome Cognome (@[nickname GitHub](#url)), Nome Cognome (@[nickname GitHub](#url))
+Matteo Cirillo (@[cllomatt24](https://github.com/cllomatt24)), Massimiliano Iob (@[massimilianoiob](https://github.com/massimilianoiob)), Stefania Papa (@[StefaniaPapa](https://github.com/StefaniaPapa)), Salvo Pitingaro (@[salpit](https://github.com/salpit))
 
 ### Icona dell'intervento (simboleggia il concept)
 ![Icon example](https://media3.giphy.com/media/26ufhUp00gyiOwdig/giphy.gif?cid=ecf05e473pnknnbvek77wa4qcdmhaccef8dws21wrfftrfaj&rid=giphy.gif&ct=g)
 
 ### Immagine di copertina (narra il concept)
-![Cover image](https://images.unsplash.com/photo-1464219789935-c2d9d9aba644?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470)
+![image](https://user-images.githubusercontent.com/101120757/174033580-39382f14-0bef-4a2f-8a1c-efcc42819353.png)
 — didascalia immagine con se serve [link alla fonte](https://unsplash.com/photos/w8CcH9Md4vE)
 
 -------
@@ -66,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas elementum fini
 * ...
 
 ## Sitografia
-* ...
+* [Generative Design: P_4_3_1_02](https://github.com/generative-design/Code-Package-p5.js/blob/master/01_P/P_4_3_1_02/sketch.js)
 
 -------
 
