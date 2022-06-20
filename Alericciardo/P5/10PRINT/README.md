@@ -12,7 +12,7 @@
 
 (https://editor.p5js.org/AleRicciardo/sketches/3lIi1vuOw)
 
-(https://user-images.githubusercontent.com/98045892/167253475-41d2a9e8-b333-4497-a387-bbef6975184c.gif)
+![cube](https://user-images.githubusercontent.com/98045892/167253475-41d2a9e8-b333-4497-a387-bbef6975184c.gif)
 
 * [Sketch 10 PRINT Generatore Linee Flash ](https://user-images.githubusercontent.com/98045892/167252997-dd6ee546-a92c-4fd4-8c5b-eb8f2e33b585.png)
 
