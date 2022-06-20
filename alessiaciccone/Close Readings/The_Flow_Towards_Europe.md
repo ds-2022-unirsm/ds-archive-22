@@ -24,6 +24,12 @@ L’intento è quello di offrire un’esperienza informativa intuitiva, memorabi
 Da quando la crisi migratoria è iniziata, l’informazione si è divisa tra chi ha spettacolarizzato le notizie a riguardo esagerandone le proporzioni, e chi invece le ha sottostimate per ridimensionarle. Questo ha dato la possibilità a diversi esponenti politici di raccogliere voti sull’errata percezione dell’evento e ha polarizzato in maniera preoccupante l’opinione pubblica.
 Progetti come questo, guardando all’evento a distanza di anni, permettono di capire la reale portata della crisi migratoria in Europa, senza esagerarla o sottostimarla, e di rendersi conto di quanto la percezione può essere manipolata da una narrazione errata.
 
+### What if?
+Cosa succederebbe se al click di ogni nazione fosse mostrato il porto di partenza/arrivo?
+E se fossero indicati con colori diversi migranti economici e rifugiati?
+E se fosse mostrato anche il numero di chi è morto durante il viaggio?
+E se venissero collegati anche eventi successi negli anni presi come campione? In modo da contestualizzare i flussi ed empatizzare maggiormente con il dato.
+
 ### Related projects 
 **The refugee project** -  Hyperakt and Ekene Ijeoma, 2019. [+](https://www.therefugeeproject.org/#/2019)
 
