@@ -14,6 +14,8 @@
 
 * [Sketch 10 PRINT Generatore Linee Flash ](https://editor.p5js.org/AleRicciardo/sketches/3lIi1vuOw)
 
+![10 print flash](https://user-images.githubusercontent.com/98045892/174594818-e3e086d3-3628-4a61-93af-061c9bea49dd.png)
+
 ![flash line](https://user-images.githubusercontent.com/98045892/167253332-8f138934-46d6-4cc0-96e8-ba6ae3542e1e.gif)
 
 
