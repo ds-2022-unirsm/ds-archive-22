@@ -11,8 +11,10 @@
 
 "Immaterials" è un progetto proposto nel 2012 da Timo Arnall, Jørn Knutsen e Einar Sneve Martinussen, ha lo scopo di rendere visibile l'invisibile delle reti Wifi negli spazi urbani di Oslo, più precisamente nella zona di Grünerløkka. Attraverso l'utilizzo di luci e fotografie a lunghe esposzione mette in risalto la tecnica del “light painting”. Inoltre, vi è una barra di misurazione, alta 4 metri, mostra la potenza del segnale WiFi sottoforma di sezione trasversale grazie all'aiuto di 80 punti di luce differenti.
 
-* ### Come funziona?
 ------
+
+* ### Come funziona?
+
 
 Il progetto è centrato sulla potenza del segnale ricevuto da (RSSI) dato da una rete Wifi particolare. Percorrendo gli spazi architettonici della città con la sonda è stato possibile catturare attraverso le fotografie.
 All'interno dell'area troviamo un’antenna Wifi che permette di accendere i led attraverso il segnale ricevuto. Se la rete Wifi percepisce un segnale elevato accenderà di conseguenza maggiori luci led. La macchina fotografica viene impostata sulla lunga esposizione, la quale rivelerà un grafico a istogramma nello spazio fisico che rivela l'immateriale.
