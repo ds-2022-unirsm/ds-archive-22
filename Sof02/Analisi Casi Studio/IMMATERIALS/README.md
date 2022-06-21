@@ -34,5 +34,6 @@ La rete al giorno d’oggi influenza il mondo in cui viviamo, spesso però non c
 L'obiettivo principale del progetto è rendere visibile ciò che è inivisibile. L'idea principale sarebbe riuscire a mettere in luce il segnale ricevuto attraverso l'RSSI in relazione con la realtà aumentata. Infatti, attraverso lo sviluppo di una applicazione che permette di vedere questa rete "invisibile" tramite la semplice fotocamera dello smartphone. Inquadrando l'area con il telofono sarà quindi possibile vedere ad occhio nudo la rete. Quest'ultima sarà resa visibile con un algoritmo che calcola in tempo reale l'intensità e la potenza utilizzata. 
 
 
-[Video_Immaterials: Light painting WiFi](https://www.youtube.com/watch?v=cxdjfOkPu-E&t=2s)
+------
 
+[<img width="150" alt="image" src="https://user-images.githubusercontent.com/101251566/174838399-10f4a23a-d061-4e7f-95fa-bfb8e84e4d8a.svg">](https://www.youtube.com/watch?v=cxdjfOkPu-E&t=2s)   Click Icon
