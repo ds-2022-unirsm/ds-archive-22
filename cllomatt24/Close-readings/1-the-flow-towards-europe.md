@@ -18,3 +18,6 @@ _The flow towards Europe_ ha un grande obiettivo: far comprendere e sensibilizza
 Cosa succederebbe se fosse possibile leggere o ottenere informazioni su alcune di queste storie? Si avrebbe un maggiore impatto emotivo e di speranza se si sapesse come la vita di alcune di queste persone sia cambiata in meglio, nonostante abbiano lasciato la propria casa.
 Cosa succederebbe se, a supporto dello slider che presenta la line chart nella prima sezione, si avesse la possibilità di sapere alcune informazioni storiche? In questo modo si potrebbe capire perché in determinati anni ci sono stati dei picchi di flussi migratori.
 Cosa succederebbe se fosse possibile sapere se e quali di queste persone si trovano nelle zone circostanti in cui il lettore sta leggendo? Si potrebbe rendere l’esperienza più partecipativa, non solo tramite computer, ma anche nella vita reale, con la possibilità di conoscere dal vivo la storia di alcune queste persone.
+
+
+ #### References: [+](https://www.lucify.com/the-flow-towards-europe/) [+](https://blog.lucify.com/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50)
