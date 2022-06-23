@@ -1,5 +1,7 @@
 # Monument # 
 
+![68747470733a2f2f692e696d6775722e636f6d2f4e6f56505a67742e6a7067](https://user-images.githubusercontent.com/79915170/175287798-693baa6f-057b-4b67-998a-250f92dc4b7a.jpeg)
+
 - **Cos'è?**
 >È un'installazione che intende soffermare l'attenzione sul tema dell'omicidio, della morte e del valore della vita umana sulla base di reali notizie di cronaca nera.
 
