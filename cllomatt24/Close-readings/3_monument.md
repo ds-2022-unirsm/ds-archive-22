@@ -13,3 +13,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur enim nulla, p
 
 ## Cosa succederebbe se...?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur enim nulla, pulvinar eget turpis vitae, molestie pharetra justo. 
+
+#### References: [+](https://rhizome.org/editorial/2008/oct/01/computational-poetics/) [+](https://books.google.it/books?id=UgREV9O8sNAC&pg=PA178&lpg=PA178&dq=monument+caleb+larsen&source=bl&ots=gkBUhDHmLc&sig=ACfU3U1hTaHMR4ldXswFdeXrTMVSSabwlA&hl=it&sa=X&ved=2ahUKEwj5ycHRqbrwAhWPzaQKHWmcDBUQ6AEwE3oECBIQAw#v=onepage&q=monument%20caleb%20larsen&f=false) [+](http://classic.rhizome.org/discuss/view/22739/)
