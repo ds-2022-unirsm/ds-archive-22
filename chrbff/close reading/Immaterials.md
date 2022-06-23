@@ -1,5 +1,7 @@
 # _Immaterials: Light painting WiFi_ # 
 
+![aho_wifi](https://user-images.githubusercontent.com/79915170/175287949-4c68be86-9fe4-45d6-982c-3a9a6654f132.jpeg)
+
 - ### Che cos'è?
 > "Immaterials" è un progetto che esplora il terreno invisibile delle reti WiFi negli spazi urbani di Oslo (precisamente nella zona di Grünerløkka) attraverso luci e fotografie a lunga esposizione. Una barra di misurazione, alta 4 metri, mostra la potenza del segnale WiFi sottoforma di sezione trasversale grazie all'aiuto di 80 punti di luce.
 
