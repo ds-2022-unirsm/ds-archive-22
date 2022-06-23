@@ -1,4 +1,4 @@
-# _The flow towards Europe_, 2015, Lucify
+# The flow towards Europe, 2015, Lucify
 ![copertina_TheFlowTowardsEurope](https://user-images.githubusercontent.com/75098849/117552863-48c8f800-b04e-11eb-9301-add9515ea6da.jpg)
 
  
