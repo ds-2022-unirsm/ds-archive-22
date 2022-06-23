@@ -1,5 +1,7 @@
 # _The flow towards Europe_, 2015, Lucify # 
 
+<img width="800" alt="Schermata 2022-06-23 alle 13 22 37" src="https://user-images.githubusercontent.com/79915170/175287553-b5cefe56-44de-45ed-942d-a222b5f4c1ef.png">
+
 ### Cos'è? ###
 >Il progetto è una **visualizzazione dei flussi dei rifugiati in Europa dal 2012 in avanti.** Si basa su dati dell'UNHCR, l'agenzia delle Nazioni Unite specializzata nella gestione dei rifugiati. Il progetto vuole trasmettere l'entità della crisi in modo **intuitivo. memorabile e coinvolgente.** Il progetto è open source e disponibile su GitHub. 
 
@@ -13,5 +15,3 @@ Scrollando sotto la mappa si può vedere un diagramma alluvionale che visualizza
 
 ### Cosa succederebbe se..? ###
 >Cosa succederebbe se venissero mostrate anche le motivazioni per cui le persone decidono di lasciare il proprio paese? Cosa succederebbe se si vedessero anche le persone che hanno intrapreso il viaggio ma non sono arrivate a destinazione? Cosa succederebbe se si potessero ascoltare le storie di chi ha compiuto questo viaggio? 
-
-### Related Projects ###
