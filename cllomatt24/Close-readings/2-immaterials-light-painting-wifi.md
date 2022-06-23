@@ -14,6 +14,7 @@ Il progetto cerca di rendere visibile e tangibile qualcosa che apparentemente no
 Le immagini fotografiche del progetto vogliono dunque mostrare visivamente come le strutture digitali (invisibili) e quelle fisiche (visibili) coesistano e si intreccino all'interno delle città.
 
 ## Cosa succederebbe se...?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur enim nulla, pulvinar eget turpis vitae, molestie pharetra justo. 
+Cosa succederebbe se, in un futuro, queste visualizzazioni fossero sempre visibili attraverso degli occhiali smart? Porterebbe le persone a muoversi in città prendendo determinate strade al posto di altre?
+Cosa succederebbe se ci fosse una differenziazione di colore o pulsazione in base alle differenti reti di WiFi (es. reti private vs reti pubbliche)?
 
 #### References: [+](https://www.designboom.com/design/immaterials-light-painting-wifi-by-timo-arnall-jorn-knutsen-einar-sneve-martinussen/) [+](http://yourban.no/2011/03/07/making-immaterials-light-painting-wifi/) [+](http://voyoslo.com/projects/immaterials-wifi-light-painting/) [+](https://concreteplayground.com/auckland/arts-entertainment/art/art-installation-maps-the-beauty-of-wifi)
