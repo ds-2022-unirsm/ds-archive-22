@@ -3,7 +3,7 @@
 
  
 ## Cos'è?
-_The flow towards Europe_ è un progetto opensource di data visualization che riporta i dati inerenti ai flussi migratori dei richiedenti rifugio in Europa, tra il 2012 e 2018. Il lavoro è stato realizzato dall'agenzia di comunicazione finlandese Lucify in collaborazione con Ville Saarinen, sulla base di dati delle Nazioni Unite.
+_The flow towards Europe_ è un progetto opensource di data visualization che riporta i dati inerenti ai flussi migratori dei richiedenti rifugio in Europa, tra il 2012 e 2018. Il lavoro è stato realizzato da Juho Ojala e Ville Saarinen dell'agenzia di comunicazione finlandese Lucify, sulla base di dati mensili pubblicati dall'Agenzia delle Nazioni Unite per i rifugiati (UNHCR).
 
 ## Come funziona?
 _The flow towards Europe_ è articolato in tre sezioni differenti, attraverso diverse tipologie di data visualization: 
