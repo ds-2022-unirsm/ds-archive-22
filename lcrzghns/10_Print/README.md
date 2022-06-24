@@ -1,1 +1,1 @@
-Caricato le prime due variazioni del 10PRINT (p5+Processign)
+Caricate prime variazioni 10PRINT (p5+Processign)
