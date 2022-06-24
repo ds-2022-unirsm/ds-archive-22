@@ -24,6 +24,10 @@ Inseriti gli esercizi **10 print eseguiti in p5.js** e alcuni esempi di porting 
 
 <img width="600" alt="Schermata 2022-03-21 alle 12 14 54" src="https://user-images.githubusercontent.com/79915170/159251921-ce0605fb-1d20-4a4e-977b-520e3e1f40a2.png">
 
+10 print con GUI per modificare i parametri --> [qui](https://editor.p5js.org/chrbff/full/xWTl7UDd2)
+
+<img width="600" alt="Schermata 2022-06-24 alle 16 20 11" src="https://user-images.githubusercontent.com/79915170/175555330-55d2ddd3-2bae-4fd4-bcb8-e6c9fc1a6383.png">
+
 10 print integrato con Perlin noise (stroke) ---> [qui](https://editor.p5js.org/chrbff/full/oOboBbsFE)
 
 <img width="600" alt="Schermata 2022-04-04 alle 10 09 20" src="https://user-images.githubusercontent.com/79915170/161501529-99bc4b6b-35ac-4af3-9d39-7fdcd913f07f.png">
