@@ -7,27 +7,25 @@
 
 * ### Che cos'è?
 
-Il progetto è un’installazione d’arte, quest’ultima è durata diversi mesi. Ogni mese, infatti, viene ricaricata per permettere alle palline di essere ricollocate nel box di plastica ancorato al soffitto. Questo Box ha il compito di rilasciare le palline gialle che cadendo formano una danza rimbalzando in modo casuale sul pavimento.
+Il progetto è un’installazione d’arte, che si compone di un box nel quale vengono inserite delle palline le quali cadono a seconda dei dati ricevuti. Questa installazione ogni mese viene riprogrammata per permettere alle palline di essere ricollocate nel box di plastica ancorato al soffitto per poi ricadere in base ai nuovi dati. Questo Box ha il compito di rilasciare le palline gialle, che cadendo formano una “danza” rimbalzando in modo casuale sul pavimento.
 
 ------
 
 * ### Come funziona?
 
-L’installazione è stata progettata per essere collegata direttamente ad un software che analizza 4.500 nuove fonti inglesi alla ricerca di notizie su quanti deceduti ci sono in quel momento. Inoltre, avviene una comparazione con le altre testate per evitare che per la stessa uccisione cadano due palline. 
-Dopo che il software ha analizzato i dati il Box posto all’interno della stanza inizia a rilasciare le palline. Una volta al mese queste palline vengono raccolte e inserite nuovamente all’interno del Box.
+L’installazione è stata progettata per essere collegata direttamente ad un software che analizza 4.500 fonti d’informazione inglesi alla ricerca di notizie su quanti deceduti ci sono in quel momento. Inoltre, avviene una comparazione con le altre testate giornalistiche per evitare che per la stessa morte cadano due palline. Dopo che il software ha analizzato i dati, il Box posto all’interno della stanza inizia a rilasciare le palline. Una volta al mese queste palline vengono raccolte e reinserite nuovamente all’interno del Box.
 
 ------
 
 * ### Cosa significa?
 
-L’installazione vuole rilasciare un messaggio chiaro, infatti vuole mettere in luce le persone cadute, è detto anche monumento dei caduti. L’installazione è uno strumento di sensibilizzazione sull’argomento e cerca di informare gli utenti che lo visitano. Infatti, ogni pallina corrisponde a una persona deceduta. Il progetto vuole far emergere nello spettatore il desiderio di vedere l’installazione in funzione.
-Il messaggio dell’installazione, infatti, non è far comprendere allo spettatore quante persone decedute ci sono ma quelle ancora “”vive” all’interno del Box. Il suono prodotto dalle palline che cadono può essere paragonato alle persone uccise quando cadono a terra, la forza di gravità agisce in ugual modo per entrambi i casi.
+L’installazione, anche detta monumento dei caduti, vuole mostrare un messaggio chiaro al proprio pubblico. Infatti, queste palline rappresentano tutte le persone decedute in un determinato periodo e luogo. L’installazione è uno strumento di sensibilizzazione sull’argomento e cerca di informare gli utenti che lo visitano. Il progetto vuole far emergere nello spettatore il desiderio di vedere l’installazione in funzione. Lo spettatore focalizzerà la sua attenzione non solo alle palline cadute ma anche a quelle che ancora devono cadere. 
 
 ------
 
 * ### Che cosa succederebbe se?
 
- 
+Una proposta interessante sarebbe poter rappresentare, tramite una nuova installazione simile al Monument, i deceduti a causa del COVID-19. I dati verrebbero raccolti dal Ministero della Salute per tracciare un andamento della situazione. La differenza consiste nel far comparire sulla parete i nomi delle persone decedute, cosicché non siano solo numeri di una statistica ma vengano ricordate come esseri umani. Ogni volta che cadrà una pallina apparirà il nome scritto sul muro per ricordare le vittime della pandemia.
 
 
 ------
