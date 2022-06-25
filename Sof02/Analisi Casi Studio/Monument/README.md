@@ -32,6 +32,5 @@ Il messaggio dell’installazione, infatti, non è far comprendere allo spettato
 
 ------
 
-* ### Click here<br>
-
-[<img width="150" alt="image" src="https://user-images.githubusercontent.com/101251566/174888905-fc399488-96b4-44d3-b52d-c42cd8d286d9.svg">](https://instintopoetico.wordpress.com/2016/05/22/monument-caleb-larsen/)
+ #### Click here
+[<img width="100" alt="image" src="https://user-images.githubusercontent.com/101251566/175774775-2952ef49-cb15-4e20-81d5-77e0e78def6f.png">](https://instintopoetico.wordpress.com/2016/05/22/monument-caleb-larsen/)
