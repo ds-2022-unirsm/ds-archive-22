@@ -1,2 +1,4 @@
-- p5.js works updated
-- video mapping_creative coding for Macbeth
+A COLLECTION OF CREATIVE CODING WORKS
+- creative coding
+- -interactive installation
+- video mapping
