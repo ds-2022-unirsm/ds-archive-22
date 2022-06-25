@@ -1,4 +1,4 @@
 A COLLECTION OF CREATIVE CODING WORKS
 - creative coding
-- -interactive installation
+- interactive installation
 - video mapping
