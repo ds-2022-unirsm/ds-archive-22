@@ -36,6 +36,7 @@ L'obiettivo principale del progetto è rendere visibile ciò che è inivisibile.
 
 ------
 
-* ### Click here<br>
+ #### Click here 
+[<img width="100" alt="image" src="https://user-images.githubusercontent.com/101251566/175774694-caedb5f3-d735-4ef0-aba4-714b756e4c4e.png">](https://www.youtube.com/watch?v=cxdjfOkPu-E&t=2s)
 
-[<img width="150" alt="image" src="https://user-images.githubusercontent.com/101251566/174888905-fc399488-96b4-44d3-b52d-c42cd8d286d9.svg">](https://www.youtube.com/watch?v=cxdjfOkPu-E&t=2s)
+
