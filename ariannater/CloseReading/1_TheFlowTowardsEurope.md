@@ -43,7 +43,7 @@ I dati trattano le rotte migratorie nei rispettivi anni, potrebbe dunque essere 
 Un esempio potrebbe essere la DataViz del The New York Times "An Incalculable Loss" pubblicata nel 2020
 In cui oltre a venir rappresentate le perdite dovute alla pandemia vengono anche raccolti i ricorsi, in minima parte, di tali persone. 
 
-<img width="425" alt="Schermata 2022-06-26 alle 19 54 28" src="https://user-images.githubusercontent.com/101118175/175827809-80287ec2-0fdb-40d2-9787-69c8a07aeacd.png"><img width="425" alt="Schermata 2022-06-26 alle 19 53 54" src="https://user-images.githubusercontent.com/101118175/175827810-259b5225-d2a6-453d-8081-6501016474fe.png">
+<img width="425" alt="Schermata 2022-06-26 alle 19 54 28" src="https://user-images.githubusercontent.com/101118175/175827809-80287ec2-0fdb-40d2-9787-69c8a07aeacd.png">       <img width="425" alt="Schermata 2022-06-26 alle 19 53 54" src="https://user-images.githubusercontent.com/101118175/175827810-259b5225-d2a6-453d-8081-6501016474fe.png">
 
 
 
