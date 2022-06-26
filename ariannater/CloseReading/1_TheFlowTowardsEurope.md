@@ -6,7 +6,7 @@
 
 The Flow Towards Europe è una piattaforma web opensource in cui è possibile consultare e interagire con visualizzazioni rappresentanti i flussi di richiedenti asilo verso i paesi europei nel tempo. 
 
-##Come funziona?
+## Come funziona?
 Il sito viene presentato come un sitoweb interattivo che permette di visualizzare e analizzare informazioni riguardanti la crisi dei rifugiati europei. 
 La visualizzazione è basata sui dati pubblicati dall'agenzia delle Nazioni Unite per i rifugiati (UNHCR). 
 
@@ -39,6 +39,8 @@ I dati trattano le rotte migratorie nei rispettivi anni, potrebbe dunque essere 
 
 Un esempio potrebbe essere la DataViz del The New York Times "An Incalculable Loss" pubblicata nel 2020
 In cui oltre a venir rappresentate le perdite dovute alla pandemia vengono anche raccolti i ricorsi, in minima parte, di tali persone. 
+<img width="284" alt="Schermata 2022-06-26 alle 19 54 28" src="https://user-images.githubusercontent.com/101118175/175827734-8b773d26-facf-48ed-b2c8-4a31df0252d1.png">   <img width="284" alt="Schermata 2022-06-26 alle 19 53 54" src="https://user-images.githubusercontent.com/101118175/175827732-c2f2fa36-8083-43c6-95f0-2dd45c60ecbc.png"> 
 
-<img width="869" alt="Schermata 2022-06-26 alle 19 54 28" src="https://user-images.githubusercontent.com/101118175/175827657-9bce4367-8f53-4c4c-8a2d-571b4eb78333.png">   <img width="862" alt="Schermata 2022-06-26 alle 19 53 54" src="https://user-images.githubusercontent.com/101118175/175827659-3b98a96c-1f56-4c1b-88b3-de6a4fa1a12c.png"> [+](https://www.nytimes.com/interactive/2020/05/24/us/us-coronavirus-deaths-100000.html)
+[+](https://www.nytimes.com/interactive/2020/05/24/us/us-coronavirus-deaths-100000.html)
+
 
