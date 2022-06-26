@@ -39,7 +39,8 @@ La volontà di espandere la sperimentazione in altre città o paesi potrebbe por
 Quanto la connessione influisce sulla mobilità, sui servizi, sul lavoro di ognuno di noi?
 La possibilità di poter perepire la presenza di questi sistemi e segnali radio ci potrebbe forse aiutare a comprendere la nostra effettiva dipendenza da questi dispositivi?
 
-![immaterials-light-painting-designboom-600](https://user-images.githubusercontent.com/101118175/175831852-108b9ca6-b712-4170-b836-f49952737b88.jpg)
+![wifi2](https://user-images.githubusercontent.com/101118175/175831925-c3449f4b-6602-4d4c-b806-6bebe9b5b5fd.jpg)
+
 [@](https://www.d![Uploading immaterials-light-painting-designboom-600.jpg…]()
 esignboom.com/design/immaterials-light-painting-wifi-by-timo-arnall-jorn-knutsen-einar-sneve-martinussen/)
 
