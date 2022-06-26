@@ -17,7 +17,7 @@ Sui media ogni giorno vengono riportati numeri altissimi; ma che aspetto ha davv
 ##
 
 
-## _DI COSA SI TRATTA E COME?_
+## _DI COSA SI TRATTA ?_
 
 
 
