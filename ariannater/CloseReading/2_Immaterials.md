@@ -18,7 +18,8 @@ _"È un modo completamente nuovo di rendere visibili i dati. Barre di luce blu c
 Viene costruito attraverso un'asta alta 4 m con 80 led annessi, attraverso la quale è possibile visualizzare la potenza del segnale tramite una barra di luci. Quando questa viene spostata nello spazio, i cambiamenti del segnale WiFi emergono grazie alle fotografie a lunga esposizione della barra in movimento che rivelano la presenza e le variazioni di potenza della rete, mostrando come si comportano diversi tipi di reti nei loro ambienti specifici. Viene utilizzata una specifica tecnica fotografica chiamata _light-painting_.[1]
 I dati mostrati corrispondono alla forza del segnale: più alta è la linea, più forte è il segnale.
 
-![5481050939_96fbe6621f](https://user-images.githubusercontent.com/101118175/175831731-e5966aa6-3f57-4aeb-b67f-e04f9dc8b56a.jpeg)  ![immaterials-light-painting-designboom-600](https://user-images.githubusercontent.com/101118175/175831939-1270e1d6-9150-4373-90b2-0d8d4d1f939e.jpg)
+![5481050939_96fbe6621f](https://user-images.githubusercontent.com/101118175/175831731-e5966aa6-3f57-4aeb-b67f-e04f9dc8b56a.jpeg)  ![immaterials-light-painting-designboom-600](https://user-images.githubusercontent.com/101118175/175831992-c851db82-f01b-45fa-bdc3-d0faf7b03375.jpg)
+
 
 [@]([https://www.elasticspace.com/](https://socialdesignmagazine.com/mag/visual/light-painting-wifi-timo-arnall-jorn-knutsen-einar-sneve-martinussen/)
 
@@ -42,8 +43,8 @@ La possibilità di poter perepire la presenza di questi sistemi e segnali radio 
 
 ![wifi2](https://user-images.githubusercontent.com/101118175/175831925-c3449f4b-6602-4d4c-b806-6bebe9b5b5fd.jpg)
 
-[@](https://www.d![Uploading immaterials-light-painting-designboom-600.jpg…]()
-esignboom.com/design/immaterials-light-painting-wifi-by-timo-arnall-jorn-knutsen-einar-sneve-martinussen/)
+[@](https://www.designboom.com/design/immaterials-light-painting-wifi-by-timo-arnall-jorn-knutsen-einar-sneve-martinussen/)
+
 
 ## Note 
 [1]Light painting vuol dire "dipingere con la luce”.
