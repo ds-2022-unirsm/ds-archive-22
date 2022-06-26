@@ -37,9 +37,16 @@ Cosa succederebbe se venisse usata una grafica più incisiva, con colori meno vi
 
 I dati trattano le rotte migratorie nei rispettivi anni, potrebbe dunque essere interessante integrare un aspetto più qualitativo con racconti degli stessi profughi o interventi riguardanti episodi storici che hanno influito o sono stati direttamente o indirettamente coinvolti in quella crisi. L'utente quando vede e nota che determinati paesi sono stati coinvolti più di altri si pone delle domande. Potrebbe essere, dunque, interessante creare un ponte di collegamento tra questo sito e siti di approfondimento su questioni legate a fatti storici o politici.
 
+
+## Alcune Reference 
+
 Un esempio potrebbe essere la DataViz del The New York Times "An Incalculable Loss" pubblicata nel 2020
 In cui oltre a venir rappresentate le perdite dovute alla pandemia vengono anche raccolti i ricorsi, in minima parte, di tali persone. 
-<img width="284" alt="Schermata 2022-06-26 alle 19 54 28" src="https://user-images.githubusercontent.com/101118175/175827734-8b773d26-facf-48ed-b2c8-4a31df0252d1.png">   <img width="284" alt="Schermata 2022-06-26 alle 19 53 54" src="https://user-images.githubusercontent.com/101118175/175827732-c2f2fa36-8083-43c6-95f0-2dd45c60ecbc.png"> 
+
+<img width="425" alt="Schermata 2022-06-26 alle 19 54 28" src="https://user-images.githubusercontent.com/101118175/175827809-80287ec2-0fdb-40d2-9787-69c8a07aeacd.png"><img width="425" alt="Schermata 2022-06-26 alle 19 53 54" src="https://user-images.githubusercontent.com/101118175/175827810-259b5225-d2a6-453d-8081-6501016474fe.png">
+
+
+
 
 [+](https://www.nytimes.com/interactive/2020/05/24/us/us-coronavirus-deaths-100000.html)
 
