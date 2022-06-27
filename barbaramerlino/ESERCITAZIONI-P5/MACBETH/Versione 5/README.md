@@ -1,6 +1,6 @@
 # Rettangoli/Triangoli + GUI - Macbeth
 > Variazioni forma, dimensione, altezza, colore attraverso la GUI<br>
-:point_right: https://editor.p5js.org/Barbaram./full/axPEDr4__
+:point_right: https://editor.p5js.org/Barbaram./full/fVYQLxYhG
 
 <img width="1440" alt="Schermata 2022-06-28 alle 00 28 35" src="https://user-images.githubusercontent.com/101414554/176048496-917d866c-f973-4186-ae7a-390a7280c63e.png">
 
