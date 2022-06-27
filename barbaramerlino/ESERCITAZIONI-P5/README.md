@@ -38,3 +38,20 @@
 :point_right: https://editor.p5js.org/Barbaram./full/WzfiCf3PQ
 
 <img width="1430" alt="Schermata 2022-06-27 alle 23 24 00" src="https://user-images.githubusercontent.com/101414554/176038953-8a0e3184-7330-40ab-8a03-b34dae0d1d73.png">
+
+
+
+
+# Percorso - P5 Speech
+> Ellisse che risponde a comandi quali cambio colore, dimensione, direzione + introduzione micLevel <br>
+:point_right: https://editor.p5js.org/Barbaram./full/ZqQsZN-gl
+
+<img width="1440" alt="Schermata 2022-06-27 alle 23 35 21" src="https://user-images.githubusercontent.com/101414554/176039643-47aceb8b-ec26-4564-b67b-67c312f00110.png">
+
+# Camminatori - P5 Speech
+> Camminatori che rispondono ai comandi di dimensione + cambio colore al click <br>
+:point_right: https://editor.p5js.org/Barbaram./full/uJdapI23T
+
+<img width="1440" alt="Schermata 2022-06-27 alle 23 42 37" src="https://user-images.githubusercontent.com/101414554/176040868-06193ec6-afa3-4b8f-a36b-35ce74b1b4a0.png">
+
+
