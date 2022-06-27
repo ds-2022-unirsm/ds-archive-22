@@ -6,7 +6,7 @@
 ----
 ### fai play per guardare il video
 
-https://user-images.githubusercontent.com/101251566/175809547-f1d72a6d-9a9b-4c37-8f67-374e695adb0e.mp4
+https://user-images.githubusercontent.com/101251566/175961785-9980ac6a-7956-4e49-8021-20e6d6cf460b.mp4
 
 ----
 ### Guarda lo sketch
