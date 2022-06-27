@@ -12,6 +12,10 @@
 // Credits/Thanks to: 
 // @Fupete (https://twitter.com/fupete) for the course DS-2022 at DESIGN.unirsm 
 // original license: Educational purpose
+//
+// Help:
+// [mouse.Pressed] aumenta spessore linee e aumenta spaziatura
+//
 // —
 
 let x = 0;
