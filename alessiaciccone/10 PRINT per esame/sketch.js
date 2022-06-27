@@ -5,7 +5,7 @@
 // Educational purposes, MIT License, 2022, San Marino
 // —
 // Credits/Thanks to: 
-// @beesandbombs (twitter.com/nome) for https://twitter.com/beesandbombs/status/940639806522085376
+// @beesandbombs (twitter.com/beesandbombs) for https://twitter.com/beesandbombs/status/940639806522085376
 // original license: 
 // 
 // @shiffman (github.com/shiffman) for https://github.com/CodingTrain/website-archive/tree/main/CodingChallenges/CC_086_beesandbombs/P5
