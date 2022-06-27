@@ -23,7 +23,6 @@ let h=20;
 function setup() {
   createCanvas(400, 400);
   background(250);
-  ellipseMode(CORNER);
 }
 
 function draw() {
