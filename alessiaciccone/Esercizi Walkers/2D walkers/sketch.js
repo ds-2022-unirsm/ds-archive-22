@@ -1,3 +1,14 @@
+// -
+// 2D_WALKERS 0.1 by @alessiaciccone [walkers,random,noise]
+// 2022 © Alessia M.T. Cicone @alessiaciccone, Daniele @Fupete and the course DS-2022 at DESIGN.unirsm 
+// github.com/ds-2022-unirsm — github.com/fupete — github.com/alessiaciccone
+// Educational purposes, MIT License, 2022, San Marino
+// —
+// @fupete (github.com/fupete) for https://editor.p5js.org/fupete/sketches/09hWlp5A9
+// original license:
+
+
+
 var w, h;
 walkers = [];
 walkersNumber = 8;
