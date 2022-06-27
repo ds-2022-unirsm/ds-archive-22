@@ -1,4 +1,11 @@
-// @alessiaciccone
+// -
+// 10PRINT_variazione 0.1 by @alessiaciccone [10print, variation]
+// 2022 © Alessia M.T. Ciccone @alessiaciccone, Daniele @Fupete and the course DS-2022 at DESIGN.unirsm 
+// github.com/ds-2022-unirsm — github.com/fupete — github.com/alessiaciccone
+// Educational purposes, MIT License, 2022, San Marino
+// —
+// @fupete (github.com/fupete) for https://editor.p5js.org/fupete/sketches/Hy0yeapg7
+// original license:
 
 //coordinate iniziali e grandezza quadrato della griglia
 let x = 0;
