@@ -1,3 +1,16 @@
+//   _                    _               
+//  | | ___ _ __ ______ _| |__  _ __  ___ 
+//  | |/ __| '__|_  / _` | '_ \| '_ \/ __|
+//  | | (__| |   / / (_| | | | | | | \__ \
+//  |_|\___|_|  /___\__, |_| |_|_| |_|___/
+//                  |___/    
+//
+// 10 Print Base by Lucrezia Ghinassi [basic]
+// 2022 © Lucrezia Ghinassi, Daniele @Fupete and the course DS-2022 at DESIGN.unirsm 
+// github.com/ds-2022-unirsm — github.com/fupete
+// Educational purposes, MIT License, 2022, San Marino
+// —
+
 let x=0;
 let y=0;
 let w=20;
