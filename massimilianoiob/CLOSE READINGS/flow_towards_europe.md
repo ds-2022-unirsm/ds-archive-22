@@ -17,7 +17,7 @@ Sui media ogni giorno vengono riportati numeri altissimi; ma che aspetto ha davv
 ##
 
 
-## _DI COSA SI TRATTA ?_
+## _DI COSA SI TRATTA?_
 
 
 
@@ -33,7 +33,7 @@ una mappa interattiva semplificata su dispositivi mobili, un video quando l'inte
 
 
 
-## _INTERAZIONI E GRAFICI_
+## _COME FUZIONA?_
 
 ###  - GRAFICO 1: IL FLUSSO DI RICHIEDENTI ASILO VERSO I PAESI EUROPEI NEL TEMPO
 
@@ -60,11 +60,12 @@ Il grafico a linee riportato qua sotto mostra il tasso totale di richiedenti asi
  ##
  
  
- ## _PRO E CONTRO_
+ ## _SE INVECE..._
  
- Comunicarne l’importanza è difficile poiché è una problematica poco tangibile ma di enorme portata.
+ Comunicarne l’importanza del progetto è molto difficile poiché è una problematica poco tangibile ma di enorme portata.
  Grazie alle visualizzazioni riportate è possibile informarsi sul tema in questione tramite una modalità esperienziale.
- A rendere ancor più efficace e coinvolgente la visualizzazione è la parte visiva: il sito potrebbe essere maggiormente approfondito anche a livello grafico. 
+ A rendere ancor più efficace e coinvolgente la visualizzazione però, è la parte visiva: il sito potrebbe essere maggiormente approfondito anche a livello grafico. 
 A partire dalla scelta dei colori che, a primo impatto non raccontano nulla sulla tematica.
+Potrebbe inoltre integrare dati relativi al fattore qualitativo della migrazione, come ad esempio la qualità e le modalità di accoglienza, creando maggiore coivolgimento da parte dell'user e magari riuscendo a mappare le potenziali mete future della migrazione
  
  
