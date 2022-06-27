@@ -1,6 +1,14 @@
-Work in progress...
+----
 
-link a variazione Perline_Noise_1: https://editor.p5js.org/SofiaMontanari/full/g877ncGmX 
+# Perline Noise 1
 
 
-<img width="1001" alt="Schermata 2022-04-08 alle 09 10 28" src="https://user-images.githubusercontent.com/101251566/162728167-77ed3700-b3f0-47bb-ae95-55df6b7c0b1d.png">
+----
+### fai play per guardare il video
+
+https://user-images.githubusercontent.com/101251566/175964519-cbd50f9f-34ba-41c0-9cd1-1e52fc67cd6a.mp4
+
+----
+### Guarda lo sketch
+
+[<img width= 150 src="https://user-images.githubusercontent.com/101251566/175955927-8364a1c6-e934-4942-9d54-625756194920.png">](https://editor.p5js.org/SofiaMontanari/full/g877ncGmX) 
