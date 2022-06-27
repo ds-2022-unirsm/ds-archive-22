@@ -1,4 +1,5 @@
 # The flow towards Europe 2015, Lucify
+![z](https://user-images.githubusercontent.com/101118083/176057456-5a92fdea-ae72-48c9-83dd-75b77d0e7f5a.jpg)
 
 ## What is?
 The flow towards Europe è un progetto che mette in evidenza, attraverso una mappa interattiva, il flusso di migranti in Europa dal 2012 al 2018. Le informazioni mostrate si basano sui dati pubblicati dall'Agenzia delle Nazioni Unite per i rifugiati (UNHCR). La visualizzazione è progettata per fornire una comprensione intuitiva e semplice.
