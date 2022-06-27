@@ -1,4 +1,6 @@
 # Immaterials: Light painting WiFi, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen, 2012
+![maxresdefault](https://user-images.githubusercontent.com/101118083/176058016-2a870ffe-6ac0-45dc-ad82-7a922f5824a9.jpg)
+
 ## What is?
 “Immaterials Light painting WiFi” è un progetto che ha come obiettivo quello di rendere visibile le rete WiFi urbane, creando delle vere e proprie infrastrutture digitali sfruttando la tecnica fotografica di lunga esposizione.
 ## How it works?
