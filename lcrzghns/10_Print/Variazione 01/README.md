@@ -3,6 +3,8 @@
 
 –––––––––––––––––
 
+### Circle or rect?
+
 [01](https://editor.p5js.org/Lucrezia_Ghinassi/sketches/BEPBWrJNO) 👉
 Nel seguente sketch viene stampata in maniera (pseudo)randomica un'alternanza di cerchi o quadrati.<br>
 Attraverso l'utilizzo del [Noise](https://p5js.org/reference/#/p5/noise) si attribuiscono sfumature di rosso a ciascuna figura. 
