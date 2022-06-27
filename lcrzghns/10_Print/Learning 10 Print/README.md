@@ -1,4 +1,4 @@
-## ESPLORAZIONI 10 PRINT 🤖
+## PRIME ESPLORAZIONI 10 PRINT 🤖
 #### On [p5.js](https://p5js.org/) Web Editor
 
 –––––––––––––––––
