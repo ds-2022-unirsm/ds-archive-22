@@ -31,7 +31,7 @@ Le fotografie a lunga esposizione dell'asta mobile rivelano sezioni trasversali 
 
 ![5481050939_96fbe6621f_z](https://user-images.githubusercontent.com/101175806/175838712-009742a3-27c1-4582-a2f3-77158ca69284.jpg)![5481117481_2b983e552c_z](https://user-images.githubusercontent.com/101175806/175838715-736eaa92-78dd-4943-9aa9-c33aff8c6637.jpg)
 
-##
+## COSA SIGNIFICA?
 
 
 L'installazione mostra come le reti WiFi siano altamente locali e frammentate,
@@ -47,12 +47,16 @@ Confermando come le reti, l'informatica e gli ambienti urbani possono essere int
 ![5481708994_843e8c1feb_z](https://user-images.githubusercontent.com/101175806/175839298-abbc460d-508e-4a4c-99ef-2ff377ea0475.jpg)
 
 
-##
+## COSA SUCCEDEREBBE SE...?
 
 
-## APPLICAZIONI E FUTURO DEL PROGETTO
 Lo strumento ha permesso di analizzare la qualità del segnale in un preciso istante, 
 come reagisce a spazi urbani affollati o ad aree aperte ad esempio. 
 'Immaterials: Light painting WiFi' punta verso i potenziali per la materializzazione e la contestualizzazione delle tecnologie invisibili attraverso
-il light painting e le visualizzazioni dei dati, illustrando come la città-web possa essere sia disordinata e irregolare, ma sottolineano come il
+il light painting e le visualizzazioni dei dati, illustrando come la città-web sia irregolare, ma sottolineano come il
 paesaggio invisibile delle reti sia un altro strato dei contesti urbani densi e complessi che già conosciamo.
+
+- Cosa succederebbe se la tecnica utilizzata fosse applicata ad altri fattori invisibili? 
+L'inquinamento in una città, dell'aria, dell'acqua etc.
+
+- Cosa succederebbe se questa data physicalization fosse interattiva (aumentare o diminuire il segnale a secoda delle esigenze di un individuo)?
