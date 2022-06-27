@@ -13,14 +13,16 @@
 
 La città è piena di un paesaggio invisibile di reti che sta diventando una parte intrecciata della vita quotidiana. 
 Reti WiFi e telefoni cellulari sempre più sofisticati stanno iniziando a influenzare il modo in cui gli ambienti urbani vengono vissuti e compresi. 
-Vogliamo esplorare e rivelare come appare il terreno immateriale del WiFi e come si relaziona con la città.
 
 ## DI COSA SI TRATTA E COME FUNZIONA?
 
+Un progetto che esplora e rivela come appare il "terreno" immateriale del WiFi e come si relaziona con la città.
 Questo progetto esplora il terreno invisibile delle reti WiFi negli spazi urbani dipingendo la potenza del segnale in fotografie a lunga esposizione.
 L'idea nasce dalla necessità di capire come poter trattare i segnali wireless in maniera architettonica.
 L'intento è principalmente quello di sensibilizzare e rendere tangibile la presenza e l'attività di rete.
 Viene quindi ricreata un'infrastruttura sfruttando i principi fisici della luce.
+
+
 Per studiare le qualità spaziali e materiali delle reti wireless, è stata costruita un'asta di misurazione WiFi che visualizza la potenza del segnale WiFi
 come una barra di luci. Quando viene spostata nello spazio, l'asta mostra i cambiamenti nel segnale WiFi.
 Le fotografie a lunga esposizione dell'asta mobile rivelano sezioni trasversali della potenza del segnale di una rete.
@@ -32,7 +34,7 @@ Le fotografie a lunga esposizione dell'asta mobile rivelano sezioni trasversali 
 ##
 
 
-I light painting mostrano come le reti WiFi siano altamente locali, informali e frammentate,
+L'installazione mostra come le reti WiFi siano altamente locali e frammentate,
 ma illustrano anche come queste reti costituiscano un'infrastruttura urbana altamente evoluta, ma in gran parte inaccessibile, 
 creata principalmente dai suoi utenti.
 Le visualizzazioni dimostrano come il WiFi sia una parte del paesaggio urbano e come le reti siano modellate dall'ambiente e 
@@ -49,9 +51,8 @@ Confermando come le reti, l'informatica e gli ambienti urbani possono essere int
 
 
 ## APPLICAZIONI E FUTURO DEL PROGETTO
-Lo strumento ha permesso infatti di poter analizzare la qualità attuale del segnale: 
+Lo strumento ha permesso di analizzare la qualità del segnale in un preciso istante, 
 come reagisce a spazi urbani affollati o ad aree aperte ad esempio. 
 'Immaterials: Light painting WiFi' punta verso i potenziali per la materializzazione e la contestualizzazione delle tecnologie invisibili attraverso
-il light painting e le visualizzazioni dei dati. 
-Light paintings illustra come la città in rete possa essere sia onnipresente, disordinata, informale e irregolare , e sottolineano come il
+il light painting e le visualizzazioni dei dati, illustrando come la città-web possa essere sia disordinata e irregolare, ma sottolineano come il
 paesaggio invisibile delle reti sia un altro strato dei contesti urbani densi e complessi che già conosciamo.
