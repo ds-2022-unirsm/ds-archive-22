@@ -3,6 +3,8 @@
 
 –––––––––––––––––
 
+### Sleep or work?
+
 [02](https://editor.p5js.org/Lucrezia_Ghinassi/sketches/15sTO0n82) 👉
 Nel seguente sketch viene stampata in maniera (pseudo)randomica l'alternanza di un'emoji con una ragazza che dorme e una con una ragazza che lavora al computer.
 Per quale delle due attività è maggiore il tempo trascorso?
