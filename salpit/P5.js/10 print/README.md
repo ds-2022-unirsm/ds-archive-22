@@ -8,3 +8,10 @@ https://editor.p5js.org/s.pitingaro/full/gRkD5Qyv-
 
 https://editor.p5js.org/s.pitingaro/full/RBfRghn4q
 <img width="1437" alt="Schermata 2022-04-23 alle 16 48 46" src="https://user-images.githubusercontent.com/86733544/164911291-20dffedf-6623-49f5-bcf8-5cbc4c84f7e9.png">
+
+
+<h1>10 PRINT Variation 3</h1>
+
+https://editor.p5js.org/s.pitingaro/full/J5-RiNx2i
+<img width="1432" alt="Schermata 2022-06-28 alle 01 03 51" src="https://user-images.githubusercontent.com/86733544/176051448-5e0f9d06-ae15-4fea-9a5c-8e17722958ee.png">
+
