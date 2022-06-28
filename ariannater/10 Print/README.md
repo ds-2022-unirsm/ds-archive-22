@@ -9,6 +9,13 @@ L'idea è quella di generare onde di velocità e distanza diversa, gestibili dal
 
 <img width="550" alt="Schermata 2022-06-28 alle 15 09 36" src="https://user-images.githubusercontent.com/101118175/176187401-71173fd5-c411-4338-9265-278d44fa1600.png">
 
+## Wall
+
+In questo caso si gioca sull'accostamento di cubi e sfere. [Link+](https://editor.p5js.org/AriannaTerenzi/full/l2PgSufkK)
+
+<img width="1295" alt="Schermata 2022-06-28 alle 16 06 31" src="https://user-images.githubusercontent.com/101118175/176199629-e5a1d8dc-92b8-4df3-8e9e-95ca34e8f367.png">
+
+
 ## Cube
 
 In questo caso è stato approfondito il gioco di colori dato dal Perlin Noise applicato alle variabili colore. 
