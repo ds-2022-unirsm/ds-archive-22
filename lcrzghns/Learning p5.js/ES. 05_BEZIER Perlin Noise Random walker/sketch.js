@@ -1,7 +1,7 @@
 var t = 0;
 
 function setup() { 
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowHeight);
   background(50);
   stroke(0, 18);
   noFill();
