@@ -18,4 +18,14 @@
 
 ![flash line](https://user-images.githubusercontent.com/98045892/167253332-8f138934-46d6-4cc0-96e8-ba6ae3542e1e.gif)
 
+* [Sketch 10 PRINT flower cube](https://editor.p5js.org/AleRicciardo/sketches/Yr-zlK9kN)
+
+![10_print_cube_waves](https://user-images.githubusercontent.com/98045892/176221841-d6c6b68e-0dcb-42f9-9d6a-569b35bca5e4.png)
+
+* [Sketch 10 PRINT GUI cube](https://editor.p5js.org/AleRicciardo/sketches/-ISzMge9_)
+
+![10_print_gui](https://user-images.githubusercontent.com/98045892/176222580-0b132286-ce38-46c8-bc07-90fc8e3598a5.png)
+
+
+
 
