@@ -1,4 +1,5 @@
-https://editor.p5js.org/Barbaram./full/S1lJdZMaf
+# Ramificazioni - Variazione2 10 print
+> Linee che cambiano direzione, talvolta costruendo dei quadrati <br>
+:point_right: https://editor.p5js.org/Barbaram./full/S1lJdZMaf
 
-
-<img width="744" alt="Schermata 2022-03-26 alle 19 39 39" src="https://user-images.githubusercontent.com/101414554/160252838-04ae08e6-e5bf-43e7-a3ed-e47f052cfcf4.png">
+<img width="1440" alt="Schermata 2022-06-27 alle 22 43 53" src="https://user-images.githubusercontent.com/101414554/176032400-de580572-8f79-4edc-8b54-5843b7df29d4.png">
