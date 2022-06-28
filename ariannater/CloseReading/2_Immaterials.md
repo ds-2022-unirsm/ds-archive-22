@@ -21,7 +21,7 @@ I dati mostrati corrispondono alla forza del segnale: più alta è la linea, pi�
 ![5481050939_96fbe6621f](https://user-images.githubusercontent.com/101118175/175831731-e5966aa6-3f57-4aeb-b67f-e04f9dc8b56a.jpeg)  ![immaterials-light-painting-designboom-600](https://user-images.githubusercontent.com/101118175/175831992-c851db82-f01b-45fa-bdc3-d0faf7b03375.jpg)
 
 
-[@]([https://www.elasticspace.com/](https://socialdesignmagazine.com/mag/visual/light-painting-wifi-timo-arnall-jorn-knutsen-einar-sneve-martinussen/)
+[@](https://socialdesignmagazine.com/mag/visual/light-painting-wifi-timo-arnall-jorn-knutsen-einar-sneve-martinussen/)
 
 
 ## Cosa significa?
