@@ -3,6 +3,16 @@
 //║═╣╚╣╚╣╬║║║║╬╚╣╔╣╔╣
 //╚═╩═╩═╩═╩╩╩╩══╩═╩═╝
 // cllomatt24 (Matteo Cirillo)
+// —
+// shining-path 0.1 by Matteo Cirillo [linee, colori, p5speech]
+// 2022 © Matteo Cirillo @cllomatt24, Daniele @Fupete and the course DS-2022 at DESIGN.unirsm 
+// github.com/ds-2022-unirsm — github.com/fupete
+// Educational purposes, MIT License, 2022, San Marino
+// —
+// Credits/Thanks to: 
+// @Fupete (https://twitter.com/fupete) for the course DS-2022 at DESIGN.unirsm 
+// original license: Educational purpose
+// —
 
 var w, h;
 var quanti = 25; // vertici
