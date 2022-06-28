@@ -15,7 +15,7 @@ La visualizzazione è basata sui dati pubblicati dall'agenzia delle Nazioni Unit
 Nel primo grafico troviamo una mappa interattiva che mostra il numero di persone che sono partite o sono arrivate in un paese dal 2012. Interessante il grafico sovrastante la mappa che indica attraverso una linea del tempo il flusso migratorio corrispondente alla relativa data. Ogni pixel rappresenta 25-50 rifugiati, a seconda delle caratteristiche del dispositivo.
 Inoltre passando con il mouse sopra la mappa è interessante capire il flusso di persone relativo al paese indicato. Notiamo ad esempio come la Germania nel 2012 abbia un traffico maggiore rispetto alla Spagna in cui sembra minimo. Interessante e intuitivo capire com'è cambiato il flusso migratorio negli anni e quali sono stati i paesi maggiormente interessati.
 
-Nella parte sottostante troviamo un approfondimento dell'argomento in cui viene presentato il totale mesile dei richiedenti proveniente e richiedenti asilo in diversi paesi, sempre aiutati da una linea temporale interattiva con cui è possibile gestire l'anno e il mese.
+Nella parte sottostante troviamo un approfondimento dell'argomento in cui viene presentato il totale mesile dei richiedenti provenienti asilo in diversi paesi, sempre aiutati da una linea temporale interattiva con cui è possibile gestire l'anno e il mese.
 I dati vengono rappresentati attraverso un _Diagramma alluvionale_ che mostra le correlazioni attraverso dei flussi che collegano visivamente le categorie individuate, i paesi da partono e quelli in cui arrivano.
 Attraverso i percorsi e le rotte migratorie vengono resi visibili i flussi e individuati di conseguenza i paesi coinvolti.
 
