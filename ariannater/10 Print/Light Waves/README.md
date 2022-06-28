@@ -8,4 +8,4 @@ Link [+](https://editor.p5js.org/AriannaTerenzi/full/kUEwYG6jb)
 
 L'idea è quella di generare onde di velocità e distanza diversa, gestibili dal pannello di controllo affianco. 
 
-<img width="564" alt="Schermata 2022-06-28 alle 15 09 36" src="https://user-images.githubusercontent.com/101118175/176186769-9d936048-1aed-4d73-a28e-f98ba5240f72.png">
+<img width="550" alt="Schermata 2022-06-28 alle 15 09 36" src="https://user-images.githubusercontent.com/101118175/176187401-71173fd5-c411-4338-9265-278d44fa1600.png">
