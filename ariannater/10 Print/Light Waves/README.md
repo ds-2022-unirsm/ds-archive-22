@@ -1,6 +1,6 @@
 ### Light Waves 
 
-Light Waves gioca su piani inclinati e giochi di luce.
+Light Waves lavora su piani inclinati e giochi di luce.
 
 Link [+](https://editor.p5js.org/AriannaTerenzi/full/kUEwYG6jb)
 
