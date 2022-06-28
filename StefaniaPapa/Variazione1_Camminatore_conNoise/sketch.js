@@ -1,6 +1,15 @@
-//Variazione random walker+noise
+//  _________ __          _____              .__        
+// /   _____//  |_  _____/ ____\____    ____ |__|____   
+// \_____  \\   __\/ __ \   __\\__  \  /    \|  \__  \  
+// /        \|  | \  ___/|  |   / __ \|   |  \  |/ __ \_
+// _______  /|__|  \___  >__|  (____  /___|  /__(____  /
+//        \/           \/           \/     \/        \/     
+// Camminatore_Noise 0.1 Stefania Papa by @StefaniaPapa [noise,colors,ellipse],
+// 2022 © Stefania Papa @StefaniaPapa, Daniele @Fupete and the course DS-2022 at DESIGN.unirsm
+// github.com/ds-2022-unirsm — github.com/fupete
+// Educational purposes, MIT License, 2022, San Marino
+// —
 
-// random walker OOP
 var w, h;
 var d = 20;
 var quanti = 50;
