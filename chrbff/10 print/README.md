@@ -35,3 +35,8 @@ Inseriti gli esercizi **10 print eseguiti in p5.js** e alcuni esempi di porting 
 10 print integrato con Perlin noise (colore stroke + strokeWeight) ---> [qui](https://editor.p5js.org/chrbff/full/KK2SM3wGI)
 
 <img width="600" alt="Schermata 2022-04-04 alle 10 05 50" src="https://user-images.githubusercontent.com/79915170/161500940-0552bd5d-e6ef-4de3-9eb5-241c6e84d9d9.png">
+
+"Travel with emojis", variazione del 10 print, viaggio in Giappone! ---> [qui](https://editor.p5js.org/chrbff/full/B0GXtiX_V)
+
+<img width="600" alt="Schermata 2022-06-28 alle 16 20 36" src="https://user-images.githubusercontent.com/79915170/176202694-1fd37949-98e2-405f-9d8e-2dafd2e57186.png">
+
