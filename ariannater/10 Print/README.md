@@ -21,7 +21,7 @@ In questo caso si gioca sull'accostamento di cubi e sfere. [Link+](https://edito
 
 In questo caso è stato approfondito il gioco di colori dato dal Perlin Noise applicato alle variabili colore. 
 Il parallelepipedo cambia dimensione secondo il ritmo del brano emesso. [Link+](https://editor.p5js.org/AriannaTerenzi/full/TKCBIQXaD)
-<img width="719" alt="Schermata 2022-06-28 alle 15 38 43" src="https://user-images.githubusercontent.com/101118175/176192963-9f1fb585-b8ec-492f-b63c-da1267fbf732.png">
+                                         <img width="719" alt="Schermata 2022-06-28 alle 15 38 43" src="https://user-images.githubusercontent.com/101118175/176192963-9f1fb585-b8ec-492f-b63c-da1267fbf732.png">
 
 
 # Variazioni _ 10 Print!
