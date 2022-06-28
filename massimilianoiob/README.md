@@ -1,26 +1,12 @@
 
-###   ![BOMDIMAX TAG](https://user-images.githubusercontent.com/101175806/175778176-d808420b-3ca2-41c0-9407-ffa833f177ad.PNG)
+![BOMDIMAX TAG](https://user-images.githubusercontent.com/101175806/175778310-308c1db1-de59-47ce-8169-60143712921f.PNG)
 
-_[check out the full logo animation!](https://editor.p5js.org/MaxMax/full/O8CxFng1A)_
-
-
+[check out the logo animation!](https://editor.p5js.org/MaxMax/full/O8CxFng1A)
 ##
 
-_**here on my page you will find part of my works related to:**_
+A COLLECTION OF MY WORKS
 
-
-#
-
-
-_- CREATIVE CODING_
-
-_- AV ART_
-
-_- VIDEO MAPPING_
-
-_- INTERACTIVE ART_
-
-##
-
-
-CHEERZ!
+- creative coding
+- interactive installation
+- video mapping
+- AV art
