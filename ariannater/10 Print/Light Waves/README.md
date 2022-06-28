@@ -1,10 +1,5 @@
-# Light Waves 
 
-Light Waves lavora su giochi di luce e onde sonore e non.
-
-
-
-## Onde Inclinate 
+## Light waves
 
 In questo caso l'idea è quella di ricreare un piano prospettico in cui diversi elementi si muovono cambiando la propria dimensione in modo asincrono, questo crea un gioco di luci interessanti che varia a seconda di vari parametri. [Link+](https://editor.p5js.org/AriannaTerenzi/full/KSuQD3Kxw)
 
