@@ -11,7 +11,7 @@ L'idea è quella di generare onde di velocità e distanza diversa, gestibili dal
 
 ## Wall
 
-In questo caso si gioca sull'accostamento di cubi e sfere. [Link+](https://editor.p5js.org/AriannaTerenzi/full/l2PgSufkK)
+Accostamento di cubi e sfere. [Link+](https://editor.p5js.org/AriannaTerenzi/full/l2PgSufkK)
 
 <img width="1327" alt="Schermata 2022-06-28 alle 16 09 05" src="https://user-images.githubusercontent.com/101118175/176200033-1f0c71b6-fcdf-43f3-a45f-41a6764b5575.png">
 
