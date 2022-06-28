@@ -1,3 +1,10 @@
+# Forme - Variazione finale 10 PRINT
+> Variazioni di forme attraverso il 10 print + p5.speech per utilizzare comandi vocali ed inserimento di GUI per modificare parametri <br>
+:point_right: https://editor.p5js.org/Barbaram./full/ZU-iHEk9u
+
+<img width="1440" alt="Schermata 2022-06-28 alle 17 37 34" src="https://user-images.githubusercontent.com/101414554/176223878-302e7cf5-d308-46b3-96ad-9953042c9750.png">
+
+
 # Occhi - Variazione1 10 print
 > Due cerchi, uno dentro l'altro, si alternano di colore e posizione. <br>
 :point_right: https://editor.p5js.org/Barbaram./full/iJooCmSvv
