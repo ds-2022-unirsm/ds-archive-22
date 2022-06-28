@@ -1,0 +1,32 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.box {
+  background-color: rgb(41,41,41);
+  height: 100px;
+  width: 430px;
+  position: fixed;
+}
+.testo {
+  font-family: Arial;
+  font-weight: 700;
+  color: white;
+  text-align: left;
+  font-size: 20px;
+  padding-left: 15px;
+}
+
+.sottotitolo {
+  font-family: Arial;
+  font-weight: 300;
+  color: white;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 15px;
+line-height: 20px;
+}
