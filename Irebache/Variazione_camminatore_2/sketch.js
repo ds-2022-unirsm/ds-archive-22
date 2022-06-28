@@ -1,3 +1,21 @@
+                                                   
+//# #####  ###### #    # ###### #####   ####    ##   
+//# #    # #      #    # #      #    # #       #  #  
+//# #    # #####  #    # #####  #    #  ####  #    # 
+//# #####  #      #    # #      #####       # ###### 
+//# #   #  #       #  #  #      #   #  #    # #    # 
+//# #    # ######   ##   ###### #    #  ####  #    # 
+
+
+// -
+// Camminatore_2 0.1 by IreneBacherotti [camminatore, random]
+// 2022 © IreneBacherotti. @irebache Daniele @Fupete and the course DS-2022 at DESIGN.unirsm 
+// github.com/ds-2022-unirsm — github.com/fupete
+// Educational purposes, MIT License, 2022, San Marino
+// —
+
+
+
 
 var w, h;
 var quanti = 100;
