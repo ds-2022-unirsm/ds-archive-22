@@ -1,0 +1,14 @@
+# Monument, Caleb Larsen, 2006
+![68747470733a2f2f692e696d6775722e636f6d2f6363684c314e482e6a7067](https://user-images.githubusercontent.com/101118083/176059254-7f494d7f-2fbc-43c5-98e5-96b23b5bd2e5.jpg)
+![68747470733a2f2f692e696d6775722e636f6d2f757344524577332e6a7067](https://user-images.githubusercontent.com/101118083/176059265-662b70f2-47bf-4163-a588-14ce898386d0.jpg)
+
+## What is?
+Monument è un progetto di Caleb Larsen che rappresenta le morti riportate dai media con delle palline gialle che cadono via via sul pavimento.
+## How it works?
+L’installazione è costituita da una scatola trasparente posto sul soffitto al cui interno sono presenti migliaia di palline gialle. Ogni qual volta che il computer integrato nel box registra, grazie ad un algoritmo che scansiona in tempo reale più di 4.500  fonti di notizie riguardanti casi di persone dichiarate uccise, una morte lascia cadere sul pavimento una delle palline. Le palline si accumuleranno e formeranno una sorta di monumento monocromatico ai morti sconosciuti.
+## What does it means?
+Conflitti e guerre influenzano drammaticamente in tempo reale l’installazione dunque gli spettatori potrebbero trovarsi ad aspettare che qualcuno venga ucciso solo per poter vedere una pallina gialla rimbalzare sul pavimento. Allo stesso modo, c'è una certa rassicurazione quando il tutto mostra poca attività. È un paradosso che spesso ritroviamo nella vita di tutti i giorni, i media non fanno altro che bombardarci di notizie sanguinolente e siamo abituati che questa sia la prassi, la normalità. Il nostro livello di sensibilità a notizie di questo genere va abbassandosi inesorabilmente! Si parla sempre di uccisioni e morte, ma spesso si dimentica che dietro ad ognuna di esse si cela una persona, una famiglia, una vita che ormai si è spenta! Grazie a “Monument” la morte di cui parlano i media diventa tangibile anche se la notizia proviene dall’altra parte del mondo ed ogni pallina rappresenta un vero e proprio memoriale per quella persona che ha perso la vita. 
+## What if?
+Le palline potrebbero essere di colori differenti in modo tale da poter essere catalogate in base alla tipologia di morte, in questo modo si andrebbe a comporre un mantello colorato sul pavimento che porterebbe lo spettatore a chiedersi per quale motivo la presenza di colori differenti. Ogni pallina potrebbe avere stampato su di essa un codice identificativo o un qrcode che potrebbe rimandare ad informazioni più specifiche sul progetto oppure analizzando nello specifico le cause generali della tipologia di morte.
+
+Altra soluzione che potrebbe essere adottata sarebbe quella di spronare lo spettatore ad interagire con le singole palline nella sala, magari facendole raccogliere per poi essere inserite in un lettore fisico che darà, anche in questo caso, ulteriori informazioni sulla tematica.

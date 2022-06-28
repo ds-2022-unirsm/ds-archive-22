@@ -1,1 +1,5 @@
+# Macbeth prove funzionamento
 
+## LA CARTELLA CONTIENE
+* ATTRATTORI
+* PROVE GRAFICHE OCCHI STREGA
