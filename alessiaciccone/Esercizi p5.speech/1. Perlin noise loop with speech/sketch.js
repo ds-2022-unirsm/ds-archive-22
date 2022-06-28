@@ -1,3 +1,19 @@
+// -
+// PERLIN_NOISE + SPEECH 0.1 by @alessiaciccone [noise, speech]
+// 2022 © Alessia M.T. Cicone @alessiaciccone, Daniele @Fupete and the course DS-2022 at DESIGN.unirsm 
+// github.com/ds-2022-unirsm — github.com/fupete — github.com/alessiaciccone
+// Educational purposes, MIT License, 2022, San Marino
+// —
+// Credits/Thanks to: 
+// R. Luke DuBois (dubois@nyu.edu) for https://idmnyu.github.io/p5.js-speech/#examples
+// original license: 
+// —
+//
+// Help:
+// [Speak] change visual parameters of the circle
+//
+// —
+
 var w, h;
 walkers = [];
 walkersNumber = 1;

@@ -1,3 +1,14 @@
+// -
+// CIRCULAR 10PRINT 0.1 by @alessiaciccone [10print, circular, variation]
+// 2022 © Alessia M.T. Ciccone @alessiaciccone, Daniele @Fupete and the course DS-2022 at DESIGN.unirsm 
+// github.com/ds-2022-unirsm — github.com/fupete — github.com/alessiaciccone
+// Educational purposes, MIT License, 2022, San Marino
+// —
+// Gene Kogan for https://genekogan.com/code/p5js-transformations/
+// original license:
+
+
+
 let cerchi = [];
 let numeroCerchi = 1;
 
