@@ -4,9 +4,9 @@
 
 ### Welcome in my GitHub archive! ###
 
-![Registrazione_schermo_2022-06-28_alle_16_57_33_AdobeExpress](https://user-images.githubusercontent.com/79915170/176212329-43402944-16de-4dfe-b92a-647628a8c993.gif)
-(name-sketch link here [+](https://editor.p5js.org/chrbff/full/jz48Ixgxl))
+my name sketch link here [+](https://editor.p5js.org/chrbff/full/jz48Ixgxl)
 
+![Registrazione_schermo_2022-06-28_alle_16_57_33_AdobeExpress](https://user-images.githubusercontent.com/79915170/176212329-43402944-16de-4dfe-b92a-647628a8c993.gif)
 
 Here you can find: 
 
