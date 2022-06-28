@@ -5,20 +5,19 @@
 
 <b>What is</b>
 
-The flow towards Europe è un progetto di data visualization open source realizzato da Lucify.  Si presenta sotto forma di spagina web nel quale vedere i flussi di migranti diretti in Europa, attraverso una visualizzazione interattiva di dati relativi ai richiedenti asilo.
+The flow towards Europe è un progetto di data visualization open source realizzato da Lucify. Si presenta sotto forma di spagina web e mostra i flussi di migranti diretti in Europa, attraverso una visualizzazione interattiva di dati relativi ai richiedenti asilo.
 
 <b>How it works</b>
 
-Il progetto si compone di una mappa interattiva che mostra il flusso delle persone richiedenti asilo negli Stati europei. I migranti sono rappresentati come punti in movimento e ogni punto rappresenta da 25 a 50 persone a seconda dl dispositivo usato. La visualizzazione è disponibile semplicemente scorrendo il mouse su i vari paesi, mentre occorre cliccarci per avere maggiori dettagli.  Inoltre è presente una linea del tempo, interagendovi con il mouse, è possibile consultare la variazione di questi flussi in base al passare del tempo, a partire dal 2012.
+Il progetto si compone di una mappa interattiva che mostra il flusso delle persone richiedenti asilo negli Stati europei. I migranti sono rappresentati come punti in movimento e ogni punto rappresenta da 25 a 50 persone a seconda del dispositivo con cui viene visualizzato.  La visualizzazione è disponibile semplicemente scorrendo il mouse su i vari paesi, mentre occorre cliccarci per avere maggiori dettagli. Inoltre è presente una linea del tempo che parte dal 2012, interagendovi con il mouse, è possibile consultare come i flussi migratori siano cambiati con il passare del tempo.
 
 <b>What does it means</b>
 
-L’obiettivo di questo progetto è quello di evidenziare la problematica dell’affluenza migratoria in Europa, mettendo in luce la grande quantità di persone che lasciano il proprio paese in cerca di accoglienza e lo fa permettendo all’utente di muoversi nel tempo e nello spazio alla ricerca delle informazioni di proprio interesse.
+L’obiettivo di questo progetto è quello di evidenziare la problematica dell’affluenza migratoria in Europa, mettendo in luce la grande quantità di persone che lasciano il proprio paese in cerca di una migliore accoglienza. L’utente può muoversi nel tempo e nello spazio alla ricerca delle informazioni di proprio interesse.
 
 <b>What if</b>
 
-Sebbene sia un progetto che tratta  la tematica dei  flussi migratori, trattare solo quelli europei non credo sia sufficiente. Cambiando i confini, magari verso gli stati uniti, e                                                                          non limitandoci solo all’Europa, per appunto, capire e vedere gli squilibri. Inoltre se fosse possibile visualizzare il vero percorso dei flussi migratori si guarderebbe in questo modo anche ad un lato forse spesso nascosto della questione e si prenderebbe in considerazione ogni punto come realmente un individuo e non semplicemente come una massa di persone.
-
+Sebbene sia un progetto che tratta la tematica dei flussi migratori, trattare solo quelli europei non credo sia sufficiente. Ampliare i confini, non limitandosi solo all’Europa sarebbe utile per capire e vedere gli squilibri della tematica. E se fosse possibile visualizzare il vero percorso dei flussi migratori? Sarebbe opportuno per puntare lo sguardo su un lato spesso nascosto della questione.
 
 <img width="1424" alt="Schermata 2022-06-27 alle 17 09 57" src="https://user-images.githubusercontent.com/101179716/176187900-5e3f5618-d38f-45a1-bf98-9d3539bf77a9.png">
 
