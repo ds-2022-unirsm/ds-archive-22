@@ -2,7 +2,7 @@
 
 Diversità è l’insieme delle caratteristiche di chi è percepito come anormale, "di-verso" cioè che diverte, “si volge altrove, si allontana”. Ma da cosa, esattamente, siamo diversi? Chi stabilisce ciò che è “normale” e ciò che non lo è? Da quale parametro è connotata la “normalità” da cui il diverso si allontana? Il fatto è che nessuno è normale, tutti abbiamo un qualcosa ci rende "diversi" e unici. 
 
-Ho scelto di usare il 10PRINT come manifesto per esprimere questo concetto perchè questo algoritmo genera labirinti. Quello che noi chiamiamo "normale" non è altro che un concetto della mente che ci è stato imposto, che troppo spesso tendiamo a rispettare e dal quale, proprio come in un labirinto, non troviamo facilmente una via di uscita. 
+Ho scelto di utilizzare l'algoritmo del 10print per esprimere il concetto di "normalità" e "diversità" inteso come "labirinto mentale", fatto di dimensioni, forme e colori personalizzati. Un vero e proprio schema imposto, che troppo spesso tendiamo a rispettare e dal quale, proprio come in un labirinto, non troviamo facilmente una via d'uscita. 
 
 
 
