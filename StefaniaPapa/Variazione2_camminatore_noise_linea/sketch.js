@@ -1,3 +1,18 @@
+//  _________ __          _____              .__        
+// /   _____//  |_  _____/ ____\____    ____ |__|____   
+// \_____  \\   __\/ __ \   __\\__  \  /    \|  \__  \  
+// /        \|  | \  ___/|  |   / __ \|   |  \  |/ __ \_
+// _______  /|__|  \___  >__|  (____  /___|  /__(____  /
+//        \/           \/           \/     \/        \/     
+// Camminatore_noise_linea 0.1 Stefania Papa by @StefaniaPapa [noise,colors,3D]
+// 2022 © Stefania Papa @StefaniaPapa, Daniele @Fupete and the course DS-2022 at DESIGN.unirsm
+// github.com/ds-2022-unirsm — github.com/fupete
+// Educational purposes, MIT License, 2022, San Marino
+// —
+
+
+
+
 var w, h;
 var quanti = 10; 
 var c = [];
