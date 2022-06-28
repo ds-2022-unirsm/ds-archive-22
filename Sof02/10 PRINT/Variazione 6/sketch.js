@@ -1,0 +1,35 @@
+let x = 0;
+let y = 0;
+let spacingX = 100;
+let spacingY = 15;
+
+function setup() {
+createCanvas(displayWidth, displayHeight)
+frameRate(80);
+}
+
+function draw() {
+  
+  background(0);
+  for (x = 0; x <= width; x += spacingX) {
+    for (y = 0; y <= height; y += spacingY) {
+      noFill();
+     // noStroke();
+     stroke(random(255,0));
+     strokeWeight(100);
+    // rect(x, y, 200, 200);
+     // fill(random(255,0),);
+      //rect(x + 25, y + 25, 25, 25);
+      rect(x, y, 400, 0);
+      //fill(255);
+//rect(random(x/1), random(y/1), width/100,height/100);
+    //line (height,width*100, random(y*20),random(x*0));
+//rect((y/1), (x/1), random(height/100),random(width/100));
+    }
+}
+}
+//function mousePressed() {
+//spacingX = spacingX*5;
+//frameRate(50)
+//}
+

@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvadisplay: block;
+}
+
+.box {
+  background-color: black;
+  height: 65px;
+  width: 300px;
+  position: fixed;
+}
+.testo {
+  font-family: Helvetica;
+  font-weight: 600;
+  color: black;
+  text-decoration:underline;
+  text-align: left;
+  font-size: 12px;
+  padding-left: 10px;
+}
