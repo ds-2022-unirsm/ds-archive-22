@@ -1,3 +1,18 @@
+
+// -
+// P5 SPEECH by Alessia Fallarino
+// 2022 © AlessiaFallarino @alessiafll Daniele @Fupete and the course DS-2022 at DESIGN.unirsm 
+// github.com/ds-2022-unirsm — github.com/fupete
+// Educational purposes, MIT License, 2022, San Marino
+// —
+
+
+//         _                  _        
+//   __ _ | |  ___  ___  ___ (_)  __ _ 
+//  / _` || | / _ \/ __|/ __|| | / _` |
+// | (_| || ||  __/\__ \\__ \| || (_| |
+//  \__,_||_| \___||___/|___/|_| \__,_|
+
 var myRec = new p5.SpeechRec('it-IT', parseResult); // new P5.SpeechRec object
 	myRec.continuous = true; // do continuous recognition
 	myRec.interimResults = true; // allow partial recognition (faster, less accurate)
