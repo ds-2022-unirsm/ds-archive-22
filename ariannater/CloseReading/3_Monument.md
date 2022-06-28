@@ -20,3 +20,7 @@ Durante l'esposizione lo spettatore deve aspettare che qualcuno muoia per vedere
 
 ## Cosa succederebbe se..?
 
+Cosa succederebbe se le palline fosse divise in categorie?
+Se ogni morte ci raccontasse un piccolo ricordo?
+Acquisirebbe più valore o perderebbe il senso critico dell'installazione?
+Credo che questa installazione, se pur semplice di colori o categorie, interpreti nel giusto modo modo la problematica.
