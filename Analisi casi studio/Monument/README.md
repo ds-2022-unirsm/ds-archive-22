@@ -34,5 +34,3 @@ E se le palline fossero di dimensioni diverse in base all’età? Come ci compor
 
 ------
 
- #### Click here 
-[<img width="100" alt="image" src="https://ejfhc.org/wp-content/uploads/2020/03/play-button.png">](https://www.youtube.com/watch?v=cxdjfOkPu-E&t=2s)
