@@ -1,7 +1,7 @@
 # The flow towards Europe, 2015, Lucify
 
 
-<img width="1024" alt="image" src="https://i0.wp.com/visualistics.co.uk/wp-content/uploads/2016/01/flow-towards-europe.png?w=1201">
+<img width="1201" alt="image" src="https://i0.wp.com/visualistics.co.uk/wp-content/uploads/2016/01/flow-towards-europe.png?w=1201">
 
 ------
 
