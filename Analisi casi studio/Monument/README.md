@@ -8,14 +8,14 @@
 * ### Che cos'è?
 
 
-"Immaterials" è un progetto proposto nel 2012 da Timo Arnall, Jørn Knutsen e Einar Sneve Martinussen. Lo scopo è quello di rendere visibile l'invisibile. Le reti Wifi negli spazi urbani di Oslo, più precisamente nella zona di Grünerløkka, attraverso l'utilizzo di luci e fotografie a lunghe esposizioni, consentono di vedere l’invisibile. Questo tipo di lavoro utilizza la tecnica del “light painting”. Inoltre, vi è una barra di misurazione alta 4 metri, che mostra la potenza del segnale WiFi sotto forma di sezione trasversale grazie all'aiuto di 80 punti luce differenti.
+Monument (If it Bleeds, it Leads) è un'installazione artistica che consiste in un box trasparente che lascia cadere delle piccole palline gialle sul pavimento in relazione alle morti di persone sconosciute nel mondo. Ogni morte corrisponde alla caduta di una pallina gialla
 
 ------
 
 * ### Come funziona?
 
 
-Il progetto funziona grazie  alla potenza del segnale ricevuto da RSSI (Received Signal Strength Indication) dato da una rete Wifi particolare. Percorrendo gli spazi architettonici della città con la sonda è stato possibile catturare delle fotografie a lunga esposizione. All'interno dell'area troviamo un’antenna Wifi che permette di attivare i led attraverso il segnale ricevuto. Il progetto si aziona in modo tale che maggiore è il segnale percepito dalla rete Wifi, maggiori sono le luci led attivate; nel caso opposto, minore è il segnale percepito e minori sono le luci led attivate. La macchina fotografica viene impostata sulla lunga esposizione, la quale mostrerà un grafico a istogramma dello spazio fisico che rivelerà l'immateriale.
+Il funzionamento consiste in un programma che, sulla base di 4500 fonti diverse tra siti e testate giornalistiche, recupera dati sulle morti giornaliere in tempo reale. Il box contenente le palline, è stato progettato per rilasciarne una ad ogni morto che viene riconosciuto dal programma. Le palline poi cadranno sul pavimento, quasi a formare un unico tappeto giallo che viene poi ripulito ogni mese per ricominciare il conteggio.
 
 
 ------
@@ -23,14 +23,14 @@ Il progetto funziona grazie  alla potenza del segnale ricevuto da RSSI (Received
 * ### Cosa significa?
 
 
-Al giorno d’oggi, la rete influenza il mondo in cui viviamo, spesso però non siamo in grado di comprendere come questa condizioni gli ambienti urbani.  Essa cerca di unire il materiale con l’immateriale, il quale influenza quotidianamente la vita cittadina di Oslo. L’obiettivo del progetto è quello di rendere visibile ciò che non lo è, come in questo caso la rete Wifi. I cittadini così possono sperimentare e osservare come la rete e le sue connessioni siano parte integrante della loro quotidianità.
+Personalmente trovo questa installazione molto inquietante per alcuni motivi. Il primo è il forte contrasto cromatico dato dal giallo. Il colore per descrivere la morte è solitamente il rosso, oppure il nero; colori che inducono paura, angoscia o allarme. In questo caso è stato utilizzato il colore giallo che, normalmente, induce sensazioni positive. Se si unisce questo al fatto che le palline sono tradizionalmente utilizzate in giochi anche per bambini, la cosa inizia ad assumere un significato molto profondo legato al contrasto semantico. Un’altro aspetto che rende l’installazione ancora più di impatto è il rapporto che si crea tra la caduta e l’aspettativa dell’osservatore. Chi osserva l’opera attende quasi impazientemente di vedere cadere palline dal box, ma questo equivale indirettamente ad attendere morte di qualcuno per la soddisfazione nell’osservare la caduta. Credo che l’opera sia di fortissimo impatto e faccia riflettere su alcuni temi anche spinosi come la morte.
 
 ------
 
 * ### Che cosa succederebbe se?
 
 
-L'obiettivo principale del progetto è rendere visibile ciò che è invisibile. Interessante sarebbe evidenziare con la realtà aumentata il segnale ricevuto tramite l'RSSI. Grazie allo sviluppo di un’applicazione sarebbe possibile vedere questa rete "invisibile" tramite lo smartphone. Inquadrando l'area con la telecamera del dispositivo sarà possibile osservare la rete. Quest'ultima sarà resa visibile con un algoritmo che calcola in tempo reale l'intensità e la potenza utilizzata.
+E se le palline fossero di dimensioni diverse in base all’età? Come ci comporteremmo di fronte alla caduta? Magari è più facile accettare la caduta di grosse palline poiché si tratta di persone anziane probabilmente. Ma se vedessimo cadere una pallina gialla grande quanto l’unghia di un mignolo, e poi un’altra…e poi un’altra ancora? Avrebbe più impatto sulla nostra coscienza?
 
 ------
 
