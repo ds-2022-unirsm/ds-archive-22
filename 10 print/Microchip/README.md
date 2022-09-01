@@ -2,9 +2,6 @@
 
 # Microchip
 
-
-----
-
 ### Random microchip pattern
 
 
