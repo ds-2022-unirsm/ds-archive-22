@@ -9,7 +9,7 @@ Prova 1, Prova 2 e Prova 3
 Prova 4, Prova 5 e Prova 6
 ---
 
-<img width="623" alt="Prova 7" src="https://user-images.githubusercontent.com/97511685/187967208-fc6db995-8f83-46db-82bd-566916888078.png"> <img width="620" alt="Prova 8" src="https://user-images.githubusercontent.com/97511685/187967215-cbece11a-d574-4091-9d58-9fdec6707dd5.png"> <img width="622" alt="Prova 9" src="https://user-images.githubusercontent.com/97511685/187967223-754c3e55-cd23-4f1e-996f-32814a415946.png">
+<img width="330" alt="Prova 7" src="https://user-images.githubusercontent.com/97511685/187967208-fc6db995-8f83-46db-82bd-566916888078.png"> <img width="330" alt="Prova 8" src="https://user-images.githubusercontent.com/97511685/187967215-cbece11a-d574-4091-9d58-9fdec6707dd5.png"> <img width="330" alt="Prova 9" src="https://user-images.githubusercontent.com/97511685/187967223-754c3e55-cd23-4f1e-996f-32814a415946.png">
 Prova 7, Prova8 e Prova 9
 
 
